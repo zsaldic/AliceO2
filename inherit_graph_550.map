@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/dac/classo2_1_1framework_1_1Task.html" title="o2::framework::Task" alt="" coords="6,208,149,235"/>
+<area shape="rect" id="node2" href="$dd/d33/classATask.html" title="ATask" alt="" coords="262,5,322,32"/>
+<area shape="rect" id="node3" href="$d7/d29/classBTask.html" title="BTask" alt="" coords="262,56,322,83"/>
+<area shape="rect" id="node4" href="$d8/d30/classo2_1_1framework_1_1Dispatcher.html" title="o2::framework::Dispatcher" alt="" coords="204,107,380,133"/>
+<area shape="rect" id="node5" href="$dd/d08/classo2_1_1ITS_1_1ClustererDPL.html" title="o2::ITS::ClustererDPL" alt="" coords="216,157,368,184"/>
+<area shape="rect" id="node6" href="$d3/df6/classo2_1_1ITS_1_1ClusterWriter.html" title="o2::ITS::ClusterWriter" alt="" coords="217,208,367,235"/>
+<area shape="rect" id="node7" href="$d4/dff/classo2_1_1ITS_1_1CookedTrackerDPL.html" title="o2::ITS::CookedTrackerDPL" alt="" coords="198,259,386,285"/>
+<area shape="rect" id="node8" href="$d2/d81/classo2_1_1ITS_1_1DigitReader.html" title="o2::ITS::DigitReader" alt="" coords="221,309,363,336"/>
+<area shape="rect" id="node9" href="$de/d4e/classo2_1_1ITS_1_1TrackerDPL.html" title="o2::ITS::TrackerDPL" alt="" coords="221,360,363,387"/>
+<area shape="rect" id="node10" href="$d8/dde/classo2_1_1ITS_1_1TrackWriter.html" title="o2::ITS::TrackWriter" alt="" coords="221,411,363,437"/>
+</map>

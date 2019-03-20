@@ -1,0 +1,3 @@
+<map id="o2::ITSMFT::GBTDataTrailer" name="o2::ITSMFT::GBTDataTrailer">
+<area shape="rect" id="node2" href="$d1/d92/classo2_1_1ITSMFT_1_1GBTWord.html" title="{o2::ITSMFT::GBTWord\n||+ GBTWord()\l+ GBTWord()\l+ isDataHeader()\l+ isDataTrailer()\l+ isDataIB()\l+ isDataOB()\l+ getW64()\l+ getW8()\l+ setByte()\l+ getByte()\l+ getHeaderByte()\l+ printX()\l+ printB()\l+ isDataHeader()\l+ isDataTrailer()\l+ isDataIB()\l+ isDataOB()\l# ClassDefNV()\l}" alt="" coords="55,150,213,477"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="o2::framework::Task" name="o2::framework::Task">
+<area shape="rect" id="node2" href="$dd/d33/classATask.html" title="{ATask\n||+ ATask()\l+ init()\l+ run()\l}" alt="" coords="5,197,84,304"/>
+<area shape="rect" id="node3" href="$d7/d29/classBTask.html" title="{BTask\n||+ run()\l}" alt="" coords="110,212,169,289"/>
+<area shape="rect" id="node4" href="$d8/d30/classo2_1_1framework_1_1Dispatcher.html" title="{o2::framework::Dispatcher\n||+ Dispatcher()\l+ ~Dispatcher()\l+ init()\l+ run()\l+ registerPath()\l+ getName()\l+ getInputSpecs()\l+ getOutputSpecs()\l}" alt="" coords="195,161,371,341"/>
+<area shape="rect" id="node5" href="$dd/d08/classo2_1_1ITS_1_1ClustererDPL.html" title="{o2::ITS::ClustererDPL\n||+ ClustererDPL()\l+ ~ClustererDPL()\l+ init()\l+ run()\l}" alt="" coords="395,190,547,311"/>
+<area shape="rect" id="node6" href="$d3/df6/classo2_1_1ITS_1_1ClusterWriter.html" title="{o2::ITS::ClusterWriter\n||+ ClusterWriter()\l+ ~ClusterWriter()\l+ init()\l+ run()\l}" alt="" coords="571,190,721,311"/>
+<area shape="rect" id="node7" href="$d4/dff/classo2_1_1ITS_1_1CookedTrackerDPL.html" title="{o2::ITS::CookedTrackerDPL\n||+ CookedTrackerDPL()\l+ ~CookedTrackerDPL()\l+ init()\l+ run()\l}" alt="" coords="746,190,933,311"/>
+<area shape="rect" id="node8" href="$d2/d81/classo2_1_1ITS_1_1DigitReader.html" title="{o2::ITS::DigitReader\n||+ DigitReader()\l+ ~DigitReader()\l+ init()\l+ run()\l}" alt="" coords="958,190,1100,311"/>
+<area shape="rect" id="node9" href="$de/d4e/classo2_1_1ITS_1_1TrackerDPL.html" title="{o2::ITS::TrackerDPL\n||+ TrackerDPL()\l+ ~TrackerDPL()\l+ init()\l+ run()\l}" alt="" coords="1125,190,1267,311"/>
+<area shape="rect" id="node10" href="$d8/dde/classo2_1_1ITS_1_1TrackWriter.html" title="{o2::ITS::TrackWriter\n||+ TrackWriter()\l+ ~TrackWriter()\l+ init()\l+ run()\l}" alt="" coords="1291,190,1431,311"/>
+</map>

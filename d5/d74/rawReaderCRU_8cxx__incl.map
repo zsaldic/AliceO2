@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/run/rawReaderCRU.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/run/rawReaderCRU.cxx">
+<area shape="rect" id="node3" href="$df/d86/RawReaderCRU_8h.html" title="TPCReconstruction/RawReader\lCRU.h" alt="" coords="503,126,712,167"/>
+<area shape="rect" id="node13" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1037,216,1160,243"/>
+<area shape="rect" id="node30" href="$d4/dee/RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="773,216,960,243"/>
+<area shape="rect" id="node31" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1185,216,1324,243"/>
+<area shape="rect" id="node14" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1051,440,1219,467"/>
+<area shape="rect" id="node27" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1181,365,1312,392"/>
+<area shape="rect" id="node29" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1087,291,1211,317"/>
+<area shape="rect" id="node15" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1490,597,1656,624"/>
+<area shape="rect" id="node18" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1051,515,1217,541"/>
+<area shape="rect" id="node28" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1243,440,1441,467"/>
+</map>

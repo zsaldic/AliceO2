@@ -1,0 +1,22 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/simulation/src/Digitizer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/simulation/src/Digitizer.cxx">
+<area shape="rect" id="node4" href="$d4/dae/TRD_2simulation_2include_2TRDSimulation_2Digitizer_8h.html" title="TRDSimulation/Digitizer.h" alt="" coords="2349,125,2523,152"/>
+<area shape="rect" id="node45" href="$dd/d07/TRDGeometry_8h.html" title="TRDBase/TRDGeometry.h" alt="" coords="2471,200,2651,227"/>
+<area shape="rect" id="node51" href="$de/df3/TRDPadPlane_8h.html" title="TRDBase/TRDPadPlane.h" alt="" coords="3407,373,3585,400"/>
+<area shape="rect" id="node5" href="$d0/d35/TRD_2base_2include_2TRDBase_2Digit_8h.html" title="TRDBase/Digit.h" alt="" coords="2324,200,2447,227"/>
+<area shape="rect" id="node6" href="$df/df0/TRD_2simulation_2include_2TRDSimulation_2Detector_8h.html" title="TRDSimulation/Detector.h" alt="" coords="1353,200,1529,227"/>
+<area shape="rect" id="node8" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1195,283,1369,309"/>
+<area shape="rect" id="node27" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="292,373,487,400"/>
+<area shape="rect" id="node31" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1960,275,2112,317"/>
+<area shape="rect" id="node43" href="$df/db2/TRsim_8h.html" title="TRDSimulation/TRsim.h" alt="" coords="313,283,477,309"/>
+<area shape="rect" id="node14" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="613,373,832,400"/>
+<area shape="rect" id="node22" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="197,464,392,491"/>
+<area shape="rect" id="node32" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2007,373,2173,400"/>
+<area shape="rect" id="node40" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="2358,464,2524,491"/>
+<area shape="rect" id="node46" href="$d8/dad/TRDGeometryBase_8h.html" title="TRDBase/TRDGeometryBase.h" alt="" coords="3119,283,3328,309"/>
+<area shape="rect" id="node52" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="2599,275,2807,317"/>
+<area shape="rect" id="node55" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2528,366,2736,407"/>
+<area shape="rect" id="node48" href="$da/d32/TRDCommonParam_8h.html" title="TRDBase/TRDCommonParam.h" alt="" coords="3117,373,3331,400"/>
+<area shape="rect" id="node49" href="$d9/df4/TRDSimParam_8h.html" title="TRDBase/TRDSimParam.h" alt="" coords="3116,464,3300,491"/>
+<area shape="rect" id="node58" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2655,464,2775,491"/>
+<area shape="rect" id="node60" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="2666,555,2904,581"/>
+</map>

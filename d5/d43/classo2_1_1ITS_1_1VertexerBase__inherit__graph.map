@@ -1,0 +1,4 @@
+<map id="o2::ITS::VertexerBase" name="o2::ITS::VertexerBase">
+<area shape="rect" id="node2" href="$df/dab/classo2_1_1ITS_1_1VertexerCPU.html" title="{o2::ITS::VertexerCPU\n||}" alt="" coords="5,631,155,708"/>
+<area shape="rect" id="node3" href="$db/df1/classo2_1_1ITS_1_1VertexerCUDA.html" title="{o2::ITS::VertexerCUDA\n||+ VertexerCUDA()\l+ ~VertexerCUDA()\l+ computeLayerTracklets()\l}" alt="" coords="180,616,359,723"/>
+</map>

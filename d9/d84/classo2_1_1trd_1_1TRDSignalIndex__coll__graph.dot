@@ -1,0 +1,8 @@
+digraph "o2::trd::TRDSignalIndex"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::trd::TRDSignalIndex\n||+ TRDSignalIndex()\l+ TRDSignalIndex()\l+ TRDSignalIndex()\l+ ~TRDSignalIndex()\l+ operator=()\l+ Copy()\l+ allocate()\l+ reset()\l+ resetContentConditional()\l+ resetContent()\l+ resetCounters()\l+ resetTbinCounter()\l+ resetArrays()\l+ addIndexRC()\l+ nextRCIndex()\l+ nextRCTbinIndex()\l+ nextTbinIndex()\l+ checkSorting()\l+ getCurrentRow()\l+ getCurrentCol()\l+ getCurrentTbin()\l+ isBoolIndex()\l+ initSortedIndex()\l+ clearAll()\l+ isAllocated()\l+ setSM()\l+ setStack()\l+ setLayer()\l+ setDetNumber()\l+ getDetNumber()\l+ getLayer()\l+ getStack()\l+ getSM()\l+ getArray()\l+ getNoOfIndexes()\l+ hasEntry()\l+ getNrow()\l+ getNcol()\l+ getNtime()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+}

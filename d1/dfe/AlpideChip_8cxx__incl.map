@@ -1,0 +1,10 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/src/AlpideChip.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/src/AlpideChip.cxx">
+<area shape="rect" id="node2" href="$da/d2d/AlpideChip_8h.html" title="Creates an ALPIDE chip in simulation. " alt="" coords="1514,125,1723,152"/>
+<area shape="rect" id="node5" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="1207,125,1437,152"/>
+<area shape="rect" id="node17" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1655,200,1875,227"/>
+<area shape="rect" id="node21" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="2221,125,2395,152"/>
+<area shape="rect" id="node6" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="949,200,1115,227"/>
+<area shape="rect" id="node14" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="143,283,309,309"/>
+<area shape="rect" id="node31" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="2296,283,2491,309"/>
+<area shape="rect" id="node36" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="2371,200,2565,227"/>
+</map>

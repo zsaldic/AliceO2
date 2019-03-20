@@ -1,0 +1,6 @@
+<map id="o2::ITS::VertexerCUDA" name="o2::ITS::VertexerCUDA">
+<area shape="rect" id="node2" href="$db/d08/classo2_1_1ITS_1_1VertexerBase.html" title="{o2::ITS::VertexerBase\n||+ VertexerBase()\l+ VertexerBase()\l+ operator=()\l+ initialise()\l+ initialise()\l+ findTracklets()\l+ findVertices()\l+ setROFrame()\l+ getROFrame()\l+ getTracklets()\l+ getClusters()\l+ getVertices()\l+ selectClusters()\l}" alt="" coords="1039,528,1191,781"/>
+<area shape="rect" id="node8" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="929,152,975,229"/>
+<area shape="rect" id="node9" href="$d7/d13/classo2_1_1ITS_1_1ROframe.html" title="{o2::ITS::ROframe\n||+ ROframe()\l+ getROFrameId()\l+ getPrimaryVertex()\l+ getPrimaryVerticesNum()\l+ addPrimaryVertex()\l+ addPrimaryReconstructedVertex()\l+ printPrimaryVertices()\l+ getTotalClusters()\l+ getClusters()\l+ getClustersOnLayer()\l+ getTrackingFrameInfoOnLayer()\l+ getClusterTrackingFrameInfo()\l+ getClusterLabels()\l+ getClusterLabels()\l+ getClusterExternalIndex()\l+ addClusterToLayer()\l+ addTrackingFrameInfoToLayer()\l+ addClusterLabelToLayer()\l+ addClusterExternalIndexTo\lLayer()\l+ clear()\l}" alt="" coords="999,5,1229,376"/>
+<area shape="rect" id="node10" href="$d1/da0/classint.html" title="{int\n||}" alt="" coords="1254,152,1292,229"/>
+</map>

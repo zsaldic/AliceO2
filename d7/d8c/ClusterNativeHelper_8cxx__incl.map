@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/TPC/src/ClusterNativeHelper.cxx" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/TPC/src/ClusterNativeHelper.cxx">
+<area shape="rect" id="node2" href="$d1/d2b/ClusterNativeHelper_8h.html" title="Helper class to read the binary format of TPC ClusterNative. " alt="" coords="794,126,1003,167"/>
+<area shape="rect" id="node22" href="$d6/d0c/Parser_8h.html" title="Utilities for parsing of data sequences. " alt="" coords="1543,133,1672,160"/>
+<area shape="rect" id="node3" href="$de/dcd/ClusterNative_8h.html" title="Class of a TPC cluster in TPC&#45;native coordinates (row, time) " alt="" coords="1103,224,1323,251"/>
+<area shape="rect" id="node6" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="824,307,1023,333"/>
+<area shape="rect" id="node7" href="$d8/dc8/ClusterGroupAttribute_8h.html" title="Meta data for a group describing it by sector number and global padrow. " alt="" coords="1347,217,1553,258"/>
+<area shape="rect" id="node8" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="199,217,351,258"/>
+<area shape="rect" id="node14" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="468,217,620,258"/>
+</map>

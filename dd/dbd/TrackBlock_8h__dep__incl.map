@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Base/include/MCHBase/TrackBlock.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Base/include/MCHBase/TrackBlock.h">
+<area shape="rect" id="node2" href="$dc/d43/TrackBlock_8cxx.html" title="Implementation of the MCH track parameters minimal structure. " alt="" coords="177,126,375,197"/>
+<area shape="rect" id="node3" href="$de/d4b/TrackParam_8h.html" title="Definition of the MCH track parameters for internal use. " alt="" coords="399,126,616,197"/>
+<area shape="rect" id="node8" href="$db/d54/TrackFitterSpec_8cxx.html" title="Implementation of a data processor to read, refit and send tracks with attached clusters. " alt="" coords="471,486,688,557"/>
+<area shape="rect" id="node4" href="$d8/d80/Detectors_2MUON_2MCH_2Tracking_2src_2Track_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Tracking\l/src/Track.h" alt="" coords="519,246,736,317"/>
+<area shape="rect" id="node6" href="$d4/d9c/TrackFitter_8h.html" title="Definition of a class to fit a track to a set of clusters. " alt="" coords="618,366,835,437"/>
+<area shape="rect" id="node9" href="$d2/deb/TrackExtrap_8cxx.html" title="Implementation of tools for track extrapolation. " alt="" coords="37,246,253,317"/>
+<area shape="rect" id="node10" href="$dc/d16/TrackParam_8cxx.html" title="Implementation of the MCH track parameters for internal use. " alt="" coords="278,246,495,317"/>
+<area shape="rect" id="node5" href="$d9/da9/Detectors_2MUON_2MCH_2Tracking_2src_2Track_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Tracking\l/src/Track.cxx" alt="" coords="325,366,541,437"/>
+<area shape="rect" id="node7" href="$d9/d47/TrackFitter_8cxx.html" title="Implementation of a class to fit a track to a set of clusters. " alt="" coords="713,486,929,557"/>
+</map>

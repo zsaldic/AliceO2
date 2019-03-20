@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/VertexerTraits.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/VertexerTraits.cxx">
+<area shape="rect" id="node2" href="$d2/dd6/VertexerTraits_8h.html" title="ITStracking/VertexerTraits.h" alt="" coords="296,125,483,152"/>
+<area shape="rect" id="node15" href="$df/d50/ClusterLines_8h.html" title="ClusterLines.h" alt="" coords="5,365,112,392"/>
+<area shape="rect" id="node16" href="$dc/d42/ROframe_8h.html" title="ITStracking/ROframe.h" alt="" coords="1084,125,1241,152"/>
+<area shape="rect" id="node3" href="$d3/d59/Configuration_8h.html" title="ITStracking/Configuration.h" alt="" coords="213,291,395,317"/>
+<area shape="rect" id="node11" href="$da/d7f/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cluster_8h.html" title="ITStracking/Cluster.h" alt="" coords="795,208,941,235"/>
+<area shape="rect" id="node8" href="$d0/d86/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Constants_8h.html" title="ITStracking/Constants.h" alt="" coords="523,365,687,392"/>
+<area shape="rect" id="node9" href="$df/d3d/Definitions_8h.html" title="ITStracking/Definitions.h" alt="" coords="677,440,843,467"/>
+<area shape="rect" id="node12" href="$dc/d3e/MathUtils_8h.html" title="ITStracking/MathUtils.h" alt="" coords="472,291,631,317"/>
+<area shape="rect" id="node13" href="$d2/d0c/IndexTableUtils_8h.html" title="ITStracking/IndexTableUtils.h" alt="" coords="808,291,1003,317"/>
+<area shape="rect" id="node19" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1087,201,1239,242"/>
+<area shape="rect" id="node21" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1364,201,1516,242"/>
+</map>

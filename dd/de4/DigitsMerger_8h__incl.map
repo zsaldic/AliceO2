@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/include/MIDSimulation/DigitsMerger.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/include/MIDSimulation/DigitsMerger.h">
+<area shape="rect" id="node3" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="259,126,411,167"/>
+<area shape="rect" id="node9" href="$d3/d53/ColumnData_8h.html" title="Strip pattern (aka digits) " alt="" coords="496,224,705,251"/>
+<area shape="rect" id="node13" href="$d0/d00/ColumnDataMC_8h.html" title="Strip pattern (aka digits) for simulations. " alt="" coords="566,133,783,160"/>
+<area shape="rect" id="node16" href="$d7/d0e/MUON_2MID_2Simulation_2include_2MIDSimulation_2MCLabel_8h.html" title="Label for MID. " alt="" coords="889,133,1063,160"/>
+<area shape="rect" id="node14" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="731,224,957,251"/>
+<area shape="rect" id="node17" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="981,217,1133,258"/>
+</map>

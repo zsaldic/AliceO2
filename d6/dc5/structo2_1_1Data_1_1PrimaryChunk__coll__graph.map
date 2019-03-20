@@ -1,0 +1,7 @@
+<map id="o2::Data::PrimaryChunk" name="o2::Data::PrimaryChunk">
+<area shape="rect" id="node3" href="$d8/dff/structo2_1_1Data_1_1SubEventInfo.html" title="{o2::Data::SubEventInfo\n||+ ClassDefNV()\l}" alt="" coords="342,435,500,512"/>
+<area shape="rect" id="node4" href="$d4/db1/classo2_1_1dataformats_1_1MCEventHeader.html" title="{o2::dataformats::MCEvent\lHeader\n||+ MCEventHeader()\l+ MCEventHeader()\l+ operator=()\l+ ~MCEventHeader()\l+ setEmbeddingFileName()\l+ setEmbeddingEventIndex()\l+ Reset()\l# ClassDefOverride()\l}" alt="" coords="94,147,284,341"/>
+<area shape="rect" id="node5" href="$dd/d8f/classFairMCEventHeader.html" title="{FairMCEventHeader\n||}" alt="" coords="5,5,145,83"/>
+<area shape="rect" id="node6" href="$d1/da0/classint.html" title="{int\n||}" alt="" coords="170,5,208,83"/>
+<area shape="rect" id="node9" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="401,205,447,283"/>
+</map>

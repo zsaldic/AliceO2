@@ -1,0 +1,27 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/test/testSimulation.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/test/testSimulation.cxx">
+<area shape="rect" id="node8" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="923,397,1089,424"/>
+<area shape="rect" id="node20" href="$d4/d73/MID_2Base_2include_2MIDBase_2Mapping_8h.html" title="Mapping for MID. " alt="" coords="3569,315,3709,341"/>
+<area shape="rect" id="node24" href="$de/d0c/GeometryTransformer_8h.html" title="Geometry transformer for MID. " alt="" coords="1083,315,1301,341"/>
+<area shape="rect" id="node27" href="$d0/d00/ColumnDataMC_8h.html" title="Strip pattern (aka digits) for simulations. " alt="" coords="2587,224,2804,251"/>
+<area shape="rect" id="node31" href="$da/de1/MUON_2MID_2Simulation_2include_2MIDSimulation_2Digitizer_8h.html" title="Digitizer for MID. " alt="" coords="1780,133,1951,160"/>
+<area shape="rect" id="node40" href="$d8/d17/ChamberResponseParams_8h.html" title="Parameters for MID RPC response. " alt="" coords="1325,307,1548,349"/>
+<area shape="rect" id="node45" href="$d5/d64/MUON_2MID_2Simulation_2include_2MIDSimulation_2Hit_8h.html" title="Hit for MID. " alt="" coords="938,224,1077,251"/>
+<area shape="rect" id="node51" href="$dc/d92/DigitsMerger_8h.html" title="Digits merger for MID. " alt="" coords="2492,133,2689,160"/>
+<area shape="rect" id="node52" href="$d7/d1a/PreClusterizer_8h.html" title="Pre&#45;Cluster reconstruction algorithm for MID. " alt="" coords="3130,133,3333,160"/>
+<area shape="rect" id="node57" href="$d5/d53/Clusterizer_8h.html" title="Cluster reconstruction algorithm for MID. " alt="" coords="3463,133,3647,160"/>
+<area shape="rect" id="node17" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1166,480,1332,507"/>
+<area shape="rect" id="node23" href="$d7/d0a/MpArea_8h.html" title="Mapping area for MID. " alt="" coords="3434,397,3571,424"/>
+<area shape="rect" id="node25" href="$dd/df0/Detectors_2MUON_2MID_2Base_2include_2MIDBase_2Constants_8h.html" title="Useful constants for MID. " alt="" coords="1515,397,1667,424"/>
+<area shape="rect" id="node28" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="2560,397,2787,424"/>
+<area shape="rect" id="node29" href="$d3/d53/ColumnData_8h.html" title="Strip pattern (aka digits) " alt="" coords="2980,315,3189,341"/>
+<area shape="rect" id="node33" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2411,217,2563,258"/>
+<area shape="rect" id="node39" href="$d5/d62/ChamberResponse_8h.html" title="MID RPC response. " alt="" coords="1533,224,1767,251"/>
+<area shape="rect" id="node42" href="$de/d74/ChamberEfficiencyResponse_8h.html" title="MID RPC effciency response. " alt="" coords="1902,217,2124,258"/>
+<area shape="rect" id="node48" href="$d7/d0e/MUON_2MID_2Simulation_2include_2MIDSimulation_2MCLabel_8h.html" title="Label for MID. " alt="" coords="2211,224,2385,251"/>
+<area shape="rect" id="node41" href="$d8/d82/ChamberHV_8h.html" title="HV values for MID RPCs. " alt="" coords="1573,315,1768,341"/>
+<area shape="rect" id="node43" href="$d3/dbe/ChamberEfficiency_8h.html" title="Measured values of the RPC efficiency. " alt="" coords="1933,315,2136,341"/>
+<area shape="rect" id="node47" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="856,307,1008,349"/>
+<area shape="rect" id="node49" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2211,307,2363,349"/>
+<area shape="rect" id="node54" href="$d6/d31/Cluster2D_8h.html" title="Reconstructed cluster per RPC. " alt="" coords="3133,224,3331,251"/>
+<area shape="rect" id="node56" href="$d8/d04/PreClusters_8h.html" title="Pre&#45;clusters structure for MID. " alt="" coords="3593,224,3783,251"/>
+</map>

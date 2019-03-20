@@ -1,0 +1,4 @@
+<map id="o2::mid::PreClusters::PreClusterBP" name="o2::mid::PreClusters::PreClusterBP">
+<area shape="rect" id="node2" href="$d1/da0/classint.html" title="{int\n||}" alt="" coords="6,101,44,179"/>
+<area shape="rect" id="node3" href="$d7/da5/classo2_1_1mid_1_1MpArea.html" title="{o2::mid::MpArea\n||+ MpArea()\l+ getCenterX()\l+ getCenterY()\l+ getHalfSizeX()\l+ getHalfSizeY()\l+ isValid()\l+ setXmin()\l+ setXmax()\l+ setYmin()\l+ setYmax()\l+ getXmin()\l+ getXmax()\l+ getYmin()\l+ getYmax()\l}" alt="" coords="69,6,187,274"/>
+</map>

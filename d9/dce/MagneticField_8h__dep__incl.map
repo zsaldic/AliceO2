@@ -1,0 +1,39 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Common/Field/include/Field/MagneticField.h" name="/home/travis/build/AliceO2Group/AliceO2/Common/Field/include/Field/MagneticField.h">
+<area shape="rect" id="node2" href="$da/d34/MagFieldFact_8h.html" title="Definition of the MagFieldFact: factory for ALIDE mag. field from MagFieldParam. " alt="" coords="5,126,163,197"/>
+<area shape="rect" id="node3" href="$d0/dec/MagFieldFact_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Common/Field/src/MagFieldFact.cxx" alt="" coords="21,245,261,301"/>
+<area shape="rect" id="node4" href="$df/d54/MagFieldParam_8cxx.html" title="Implementation of the MagFieldParam class. " alt="" coords="237,133,491,189"/>
+<area shape="rect" id="node5" href="$d2/d78/MagneticField_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Common/Field/src/MagneticField.cxx" alt="" coords="515,133,757,189"/>
+<area shape="rect" id="node6" href="$d6/dda/testMagneticField_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Common/Field/test/testMagnetic\lField.cxx" alt="" coords="781,126,997,197"/>
+<area shape="rect" id="node7" href="$d3/dee/Base_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Base/src/Detector.cxx" alt="" coords="1021,133,1240,189"/>
+<area shape="rect" id="node8" href="$d8/dee/Propagator_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Base/src/Propagator.cxx" alt="" coords="1265,133,1495,189"/>
+<area shape="rect" id="node9" href="$d3/d85/Detectors_2EMCAL_2testsimulation_2run__sim__emcal_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/testsimulation\l/run_sim_emcal.C" alt="" coords="1520,126,1739,197"/>
+<area shape="rect" id="node10" href="$db/d6a/MatchTOF_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/GlobalTracking\l/src/MatchTOF.cxx" alt="" coords="1763,126,1937,197"/>
+<area shape="rect" id="node11" href="$dc/d59/MatchTPCITS_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/GlobalTracking\l/src/MatchTPCITS.cxx" alt="" coords="1962,126,2136,197"/>
+<area shape="rect" id="node12" href="$d7/dca/CookedTracker_8cxx.html" title="Implementation of the &quot;Cooked Matrix&quot; ITS tracker. " alt="" coords="2161,126,2408,197"/>
+<area shape="rect" id="node13" href="$d6/dbc/CookedTrackerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/workflow/src/CookedTrackerSpec.cxx" alt="" coords="2433,126,2680,197"/>
+<area shape="rect" id="node14" href="$d7/da1/TrackerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/workflow/src/TrackerSpec.cxx" alt="" coords="2705,126,2908,197"/>
+<area shape="rect" id="node15" href="$d0/d6b/ITSMFT_2MFT_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/simulation/src/Detector.cxx" alt="" coords="2932,126,3119,197"/>
+<area shape="rect" id="node16" href="$d9/d47/TrackFitter_8cxx.html" title="Implementation of a class to fit a track to a set of clusters. " alt="" coords="3143,126,3360,197"/>
+<area shape="rect" id="node17" href="$de/da5/FrameStructure_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/FrameStructure.cxx" alt="" coords="3385,126,3543,197"/>
+<area shape="rect" id="node18" href="$d5/d3a/run__sim__phos_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/PHOS/testsimulation\l/run_sim_phos.C" alt="" coords="3567,126,3776,197"/>
+<area shape="rect" id="node19" href="$da/d8e/SpaceCharge_8cxx.html" title="Implementation of the interface for the ALICE TPC space&#45;charge distortions calculations. " alt="" coords="3802,126,3979,197"/>
+<area shape="rect" id="node20" href="$dd/d2b/o2__sim__its__ALP3_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/o2_sim_its_ALP3.cxx" alt="" coords="4003,126,4185,197"/>
+<area shape="rect" id="node21" href="$d7/d11/o2__sim__tpc_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/o2_sim_tpc.cxx" alt="" coords="4210,126,4392,197"/>
+<area shape="rect" id="node22" href="$d0/d17/initSimGeomAndField_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/initSimGeomAndField.C" alt="" coords="4417,133,4623,189"/>
+<area shape="rect" id="node23" href="$de/dae/run__calib__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_calib_tof.C" alt="" coords="4648,133,4805,189"/>
+<area shape="rect" id="node24" href="$dd/d7c/run__match__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_match_tof.C" alt="" coords="4829,133,4992,189"/>
+<area shape="rect" id="node25" href="$d9/d84/run__match__TPCITS_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_match_TPCITS.C" alt="" coords="5017,133,5212,189"/>
+<area shape="rect" id="node26" href="$dc/d97/run__rec__ca_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_rec_ca.C" alt="" coords="5237,133,5395,189"/>
+<area shape="rect" id="node27" href="$d9/d71/run__sim_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim.C" alt="" coords="5419,133,5576,189"/>
+<area shape="rect" id="node28" href="$db/df3/macro_2run__sim__emcal_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_emcal.C" alt="" coords="5600,133,5768,189"/>
+<area shape="rect" id="node29" href="$d4/d5f/run__sim__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_mft.C" alt="" coords="5792,133,5949,189"/>
+<area shape="rect" id="node30" href="$d3/dcc/run__sim__pythia8hi_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_pythia8hi.C" alt="" coords="5974,133,6159,189"/>
+<area shape="rect" id="node31" href="$dc/d6a/run__sim__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_tof.C" alt="" coords="6184,133,6341,189"/>
+<area shape="rect" id="node32" href="$d7/d08/run__sim__tpc_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_tpc.C" alt="" coords="6365,133,6523,189"/>
+<area shape="rect" id="node34" href="$da/d77/run__test__vert__ca__its_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_test_vert_ca_its.C" alt="" coords="6547,133,6745,189"/>
+<area shape="rect" id="node35" href="$d6/db2/run__trac__ca__its_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_trac_ca_its.C" alt="" coords="6770,133,6939,189"/>
+<area shape="rect" id="node36" href="$dd/d4e/run__trac__its_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_trac_its.C" alt="" coords="6964,133,7121,189"/>
+<area shape="rect" id="node37" href="$d6/d3f/run__trac__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_trac_mft.C" alt="" coords="7145,133,7303,189"/>
+<area shape="rect" id="node38" href="$d4/da9/run__vert__ca__its_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_vert_ca_its.C" alt="" coords="7327,133,7496,189"/>
+<area shape="rect" id="node33" href="$d3/d56/runTPC_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/runTPC.cxx" alt="" coords="6365,245,6523,301"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/VertexerBase.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/VertexerBase.cxx">
+<area shape="rect" id="node10" href="$d0/d86/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Constants_8h.html" title="ITStracking/Constants.h" alt="" coords="602,480,765,507"/>
+<area shape="rect" id="node16" href="$da/d7f/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cluster_8h.html" title="ITStracking/Cluster.h" alt="" coords="685,299,832,325"/>
+<area shape="rect" id="node18" href="$d2/d0c/IndexTableUtils_8h.html" title="ITStracking/IndexTableUtils.h" alt="" coords="587,389,781,416"/>
+<area shape="rect" id="node19" href="$dc/d42/ROframe_8h.html" title="ITStracking/ROframe.h" alt="" coords="1457,208,1615,235"/>
+<area shape="rect" id="node28" href="$df/d50/ClusterLines_8h.html" title="ITStracking/ClusterLines.h" alt="" coords="1747,208,1924,235"/>
+<area shape="rect" id="node29" href="$d2/dc7/VertexerBase_8h.html" title="ITStracking/VertexerBase.h" alt="" coords="1798,125,1980,152"/>
+<area shape="rect" id="node13" href="$df/d3d/Definitions_8h.html" title="ITStracking/Definitions.h" alt="" coords="309,563,475,589"/>
+<area shape="rect" id="node17" href="$dc/d3e/MathUtils_8h.html" title="ITStracking/MathUtils.h" alt="" coords="352,389,511,416"/>
+<area shape="rect" id="node22" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1460,291,1612,333"/>
+<area shape="rect" id="node24" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1175,291,1327,333"/>
+<area shape="rect" id="node30" href="$d3/d6f/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Vertex_8h.html" title="ReconstructionDataFormats\l/Vertex.h" alt="" coords="3300,201,3487,242"/>
+<area shape="rect" id="node31" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3034,299,3200,325"/>
+<area shape="rect" id="node43" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="3359,299,3585,325"/>
+<area shape="rect" id="node40" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3303,389,3469,416"/>
+</map>

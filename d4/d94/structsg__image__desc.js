@@ -1,0 +1,27 @@
+var structsg__image__desc =
+[
+    [ "_end_canary", "d4/d94/structsg__image__desc.html#a228daac3459d79ef70db9c3f77b1d987", null ],
+    [ "_start_canary", "d4/d94/structsg__image__desc.html#a7710b99d8f762ca5d3427aec45476ac8", null ],
+    [ "content", "d4/d94/structsg__image__desc.html#ada2a41a3d05f322bc67e6441dbeb64d3", null ],
+    [ "d3d11_texture", "d4/d94/structsg__image__desc.html#a47068f539f908275b14356da7666c869", null ],
+    [ "depth", "d4/d94/structsg__image__desc.html#a205fafb8e91cc1249e481378b7bac888", null ],
+    [ "gl_textures", "d4/d94/structsg__image__desc.html#a099e099707ea148ef97aa81c526086bf", null ],
+    [ "height", "d4/d94/structsg__image__desc.html#a80175365c540f912492e50a5a8b362e7", null ],
+    [ "layers", "d4/d94/structsg__image__desc.html#aed8145e728a2593423ab83d28efceb49", null ],
+    [ "mag_filter", "d4/d94/structsg__image__desc.html#a7cc28a336de67a2fee6a39c0a4cb3eb6", null ],
+    [ "max_anisotropy", "d4/d94/structsg__image__desc.html#a1db73b1b6b31ac8dc14f0c2358057f87", null ],
+    [ "max_lod", "d4/d94/structsg__image__desc.html#a435a6e2e71f190b00ef4666c83173572", null ],
+    [ "min_filter", "d4/d94/structsg__image__desc.html#a09eb7207f75e8ad1a8e49335b5da0a0f", null ],
+    [ "min_lod", "d4/d94/structsg__image__desc.html#a65deea510785efb62849e55b84193263", null ],
+    [ "mtl_textures", "d4/d94/structsg__image__desc.html#acaa521ee4257b203252d89c0f4d299a9", null ],
+    [ "num_mipmaps", "d4/d94/structsg__image__desc.html#a0653e80837f6ffa9477a62e627fad170", null ],
+    [ "pixel_format", "d4/d94/structsg__image__desc.html#a07ce05ddf423b45fb74375b384dc1f14", null ],
+    [ "render_target", "d4/d94/structsg__image__desc.html#aeb5ea1efacf1fcbe702491bd6417df70", null ],
+    [ "sample_count", "d4/d94/structsg__image__desc.html#a7e0d5c7130c32b489e509a6bcfd9904a", null ],
+    [ "type", "d4/d94/structsg__image__desc.html#a206bf908ad986430c63d819f06c4a91a", null ],
+    [ "usage", "d4/d94/structsg__image__desc.html#a4610a2c95a3f97c99390ec4e08caa1ca", null ],
+    [ "width", "d4/d94/structsg__image__desc.html#a2852616fac46bf1d405b822ac612e94a", null ],
+    [ "wrap_u", "d4/d94/structsg__image__desc.html#af56aa1ad4802c4377f32a3656cc00540", null ],
+    [ "wrap_v", "d4/d94/structsg__image__desc.html#ad92e8d7c8fc89dea7db54d569982f57d", null ],
+    [ "wrap_w", "d4/d94/structsg__image__desc.html#a457ed7b98ffce90d5cb6b70e2cc4027d", null ]
+];

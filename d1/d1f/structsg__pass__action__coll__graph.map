@@ -1,0 +1,6 @@
+<map id="sg_pass_action" name="sg_pass_action">
+<area shape="rect" id="node2" href="$d3/d48/structsg__stencil__attachment__action.html" title="{sg_stencil_attachment\l_action\n||}" alt="" coords="5,147,157,239"/>
+<area shape="rect" id="node6" href="$db/dc9/structsg__color__attachment__action.html" title="{sg_color_attachment\l_action\n||}" alt="" coords="274,147,416,239"/>
+<area shape="rect" id="node8" href="$d3/dd4/structsg__depth__attachment__action.html" title="{sg_depth_attachment\l_action\n||}" alt="" coords="441,147,588,239"/>
+<area shape="rect" id="node7" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="461,5,507,83"/>
+</map>

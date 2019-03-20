@@ -1,0 +1,6 @@
+<map id="SEG" name="SEG">
+<area shape="rect" id="node2" href="$d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html" title="A CathodeSegmentation lets you find pads on a given plane (cathode) of a detection element and then i..." alt="" coords="5,293,195,987"/>
+<area shape="rect" id="node3" href="$d0/dca/classo2_1_1ITSMFT_1_1SegmentationAlpide.html" title="{o2::ITSMFT::Segmentation\lAlpide\n|+ SensLayerThickness\l|+ SegmentationAlpide()\l+ ~SegmentationAlpide()\l+ localToDetector()\l+ localToDetectorUnchecked()\l+ detectorToLocal()\l+ detectorToLocal()\l+ detectorToLocal()\l+ detectorToLocalUnchecked()\l+ detectorToLocalUnchecked()\l+ detectorToLocalUnchecked()\l+ getFirstRowCoordinate()\l+ getFirstColCoordinate()\l+ print()\l}" alt="" coords="219,506,420,774"/>
+<area shape="rect" id="node4" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="210,5,256,83"/>
+<area shape="rect" id="node5" href="$d1/da0/classint.html" title="{int\n||}" alt="" coords="386,5,424,83"/>
+</map>

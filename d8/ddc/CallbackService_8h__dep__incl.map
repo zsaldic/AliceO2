@@ -1,0 +1,32 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/CallbackService.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/CallbackService.h">
+<area shape="rect" id="node2" href="$d2/d75/DigitSamplerSpec_8cxx.html" title="Implementation of a data processor to read and send digits. " alt="" coords="5,126,251,197"/>
+<area shape="rect" id="node3" href="$df/d50/PreClusterFinderSpec_8cxx.html" title="Implementation of a data processor to run the preclusterizer. " alt="" coords="275,126,521,197"/>
+<area shape="rect" id="node4" href="$d0/d5c/PreClusterSinkSpec_8cxx.html" title="Implementation of a data processor to write preclusters. " alt="" coords="546,126,792,197"/>
+<area shape="rect" id="node5" href="$d5/d93/TrackSamplerSpec_8cxx.html" title="Implementation of a data processor to read and send tracks. " alt="" coords="817,126,1033,197"/>
+<area shape="rect" id="node6" href="$d7/d7d/TrackSinkSpec_8cxx.html" title="Implementation of a data processor to print the tracks. " alt="" coords="1058,126,1275,197"/>
+<area shape="rect" id="node7" href="$db/dac/DataProcessingDevice_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/src/DataProcessing\lDevice.cxx" alt="" coords="1300,126,1543,197"/>
+<area shape="rect" id="node8" href="$d7/d54/runDataProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/src/runDataProcessing.cxx" alt="" coords="1567,133,1851,189"/>
+<area shape="rect" id="node9" href="$dc/d58/test__BoostSerializedProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_BoostSerializedProcessing.cxx" alt="" coords="1876,126,2085,197"/>
+<area shape="rect" id="node10" href="$db/d30/test__CallbackService_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_CallbackService.cxx" alt="" coords="2111,126,2285,197"/>
+<area shape="rect" id="node11" href="$d5/d47/test__CustomGUIGL_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_CustomGUIGL.cxx" alt="" coords="2310,126,2484,197"/>
+<area shape="rect" id="node12" href="$d6/dd1/test__CustomGUISokol_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_CustomGUISokol.cxx" alt="" coords="2509,126,2683,197"/>
+<area shape="rect" id="node13" href="$dd/d19/test__Services_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_Services.cxx" alt="" coords="2707,126,2881,197"/>
+<area shape="rect" id="node14" href="$da/d12/test__SimpleStatefulProcessing01_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_SimpleStatefulProcessing01.cxx" alt="" coords="2907,126,3125,197"/>
+<area shape="rect" id="node15" href="$d4/d92/test__SimpleStringProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_SimpleStringProcessing.cxx" alt="" coords="3150,126,3343,197"/>
+<area shape="rect" id="node16" href="$d5/dc8/MakeRootTreeWriterSpec_8h.html" title="Configurable generator for RootTreeWriter processor spec. " alt="" coords="3419,126,3637,197"/>
+<area shape="rect" id="node19" href="$d1/d02/test__RootTreeWriterWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Utils/test\l/test_RootTreeWriterWorkflow.cxx" alt="" coords="2896,246,3119,317"/>
+<area shape="rect" id="node25" href="$d9/db2/EMCALDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/EMCALDigitWriterSpec.cxx" alt="" coords="3661,126,3871,197"/>
+<area shape="rect" id="node26" href="$d9/d87/FITDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FITDigitWriterSpec.cxx" alt="" coords="3897,126,4081,197"/>
+<area shape="rect" id="node27" href="$d9/d59/GRPUpdaterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/GRPUpdaterSpec.cxx" alt="" coords="4107,126,4285,197"/>
+<area shape="rect" id="node28" href="$df/d17/ITSMFTDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/ITSMFTDigitWriterSpec.cxx" alt="" coords="4309,126,4523,197"/>
+<area shape="rect" id="node29" href="$d5/d8f/TOFClusterWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFClusterWriterSpec.cxx" alt="" coords="4547,126,4753,197"/>
+<area shape="rect" id="node30" href="$d1/d80/TOFDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFDigitWriterSpec.cxx" alt="" coords="4778,126,4968,197"/>
+<area shape="rect" id="node31" href="$d8/dd2/TPCDigitRootWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TPCDigitRootWriterSpec.cxx" alt="" coords="4993,126,5212,197"/>
+<area shape="rect" id="node17" href="$d0/d80/TPC_2workflow_2src_2RecoWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/workflow\l/src/RecoWorkflow.cxx" alt="" coords="3144,246,3315,317"/>
+<area shape="rect" id="node18" href="$da/dcf/test__RootTreeWriter_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Utils/test\l/test_RootTreeWriter.cxx" alt="" coords="3339,246,3508,317"/>
+<area shape="rect" id="node20" href="$d5/d5b/HMPIDDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/HMPIDDigitWriterSpec.h" alt="" coords="3533,246,3728,317"/>
+<area shape="rect" id="node22" href="$d8/d60/MCHDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MCHDigitWriterSpec.h" alt="" coords="3753,246,3935,317"/>
+<area shape="rect" id="node23" href="$d9/d65/MIDDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MIDDigitWriterSpec.h" alt="" coords="3960,246,4136,317"/>
+<area shape="rect" id="node24" href="$da/d27/TRDDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TRDDigitWriterSpec.h" alt="" coords="4160,246,4339,317"/>
+<area shape="rect" id="node21" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="3837,366,4053,437"/>
+</map>

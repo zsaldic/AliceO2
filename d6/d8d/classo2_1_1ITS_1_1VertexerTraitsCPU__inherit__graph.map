@@ -1,0 +1,3 @@
+<map id="o2::ITS::VertexerTraitsCPU" name="o2::ITS::VertexerTraitsCPU">
+<area shape="rect" id="node2" href="$dd/d3d/classo2_1_1ITS_1_1VertexerTraits.html" title="{o2::ITS::VertexerTraits\n|# mVrtParams\l# mIndexTables\l# mVertices\l# mEvent\l# mROframe\l# mClusters\l# mTracklets\l# mAverageClustersRadii\l# mDeltaRadii10\l# mDeltaRadii21\l# mMaxDirectorCosine3\l# mTrackletClusters\l|+ VertexerTraits()\l+ ~VertexerTraits()\l+ reset()\l+ initialise()\l+ computeTracklets()\l+ computeVertices()\l+ updateVertexingParameters()\l+ getVertices()\l+ dumpVertexerTraits()\l+ selectClusters()\l}" alt="" coords="5,5,208,376"/>
+</map>

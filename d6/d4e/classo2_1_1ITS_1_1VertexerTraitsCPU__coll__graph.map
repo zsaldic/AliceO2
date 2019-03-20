@@ -1,0 +1,7 @@
+<map id="o2::ITS::VertexerTraitsCPU" name="o2::ITS::VertexerTraitsCPU">
+<area shape="rect" id="node2" href="$dd/d3d/classo2_1_1ITS_1_1VertexerTraits.html" title="{o2::ITS::VertexerTraits\n||+ VertexerTraits()\l+ ~VertexerTraits()\l+ reset()\l+ initialise()\l+ computeTracklets()\l+ computeVertices()\l+ updateVertexingParameters()\l+ getVertices()\l+ dumpVertexerTraits()\l+ selectClusters()\l}" alt="" coords="960,625,1163,834"/>
+<area shape="rect" id="node4" href="$d2/d26/structo2_1_1ITS_1_1VertexingParameters.html" title="{o2::ITS::VertexingParameters\n||+ VertexingParameters()\l}" alt="" coords="68,336,263,413"/>
+<area shape="rect" id="node5" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="235,5,281,83"/>
+<area shape="rect" id="node6" href="$d1/da0/classint.html" title="{int\n||}" alt="" coords="5,5,43,83"/>
+<area shape="rect" id="node8" href="$d7/d13/classo2_1_1ITS_1_1ROframe.html" title="{o2::ITS::ROframe\n||+ ROframe()\l+ getROFrameId()\l+ getPrimaryVertex()\l+ getPrimaryVerticesNum()\l+ addPrimaryVertex()\l+ addPrimaryReconstructedVertex()\l+ printPrimaryVertices()\l+ getTotalClusters()\l+ getClusters()\l+ getClustersOnLayer()\l+ getTrackingFrameInfoOnLayer()\l+ getClusterTrackingFrameInfo()\l+ getClusterLabels()\l+ getClusterLabels()\l+ getClusterExternalIndex()\l+ addClusterToLayer()\l+ addTrackingFrameInfoToLayer()\l+ addClusterLabelToLayer()\l+ addClusterExternalIndexTo\lLayer()\l+ clear()\l}" alt="" coords="569,189,799,560"/>
+</map>

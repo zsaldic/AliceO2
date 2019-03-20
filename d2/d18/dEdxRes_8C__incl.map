@@ -1,0 +1,27 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/macro/dEdxRes.C" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/macro/dEdxRes.C">
+<area shape="rect" id="node2" href="$dc/ddf/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Cluster_8h.html" title="DataFormatsTPC/Cluster.h" alt="" coords="3081,357,3263,384"/>
+<area shape="rect" id="node5" href="$d7/d2c/Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="847,125,984,152"/>
+<area shape="rect" id="node30" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1226,275,1349,301"/>
+<area shape="rect" id="node34" href="$d5/dc9/TrackTPC_8h.html" title="DataFormatsTPC/TrackTPC.h" alt="" coords="1948,275,2147,301"/>
+<area shape="rect" id="node4" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="3308,629,3535,656"/>
+<area shape="rect" id="node11" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="941,539,1109,565"/>
+<area shape="rect" id="node23" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="743,357,883,384"/>
+<area shape="rect" id="node24" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1039,275,1201,301"/>
+<area shape="rect" id="node25" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1138,448,1269,475"/>
+<area shape="rect" id="node27" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="844,275,1015,301"/>
+<area shape="rect" id="node29" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="844,200,988,227"/>
+<area shape="rect" id="node31" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1447,357,1589,384"/>
+<area shape="rect" id="node32" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="437,275,616,301"/>
+<area shape="rect" id="node33" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1013,200,1176,227"/>
+<area shape="rect" id="node12" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="143,720,309,747"/>
+<area shape="rect" id="node15" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2037,629,2203,656"/>
+<area shape="rect" id="node26" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="2928,539,3127,565"/>
+<area shape="rect" id="node28" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="963,357,1087,384"/>
+<area shape="rect" id="node35" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="1955,350,2141,391"/>
+<area shape="rect" id="node55" href="$de/dcd/ClusterNative_8h.html" title="Class of a TPC cluster in TPC&#45;native coordinates (row, time) " alt="" coords="3099,448,3319,475"/>
+<area shape="rect" id="node41" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="3307,811,3545,837"/>
+<area shape="rect" id="node42" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="3053,720,3173,747"/>
+<area shape="rect" id="node43" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="2085,441,2272,482"/>
+<area shape="rect" id="node48" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="2409,531,2617,573"/>
+<area shape="rect" id="node51" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2817,622,3025,663"/>
+</map>

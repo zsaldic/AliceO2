@@ -1,0 +1,28 @@
+var classo2_1_1trd_1_1TRDArrayDictionary =
+[
+    [ "TRDArrayDictionary", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a7d167570127c23187f7f2e2adbf138f8", null ],
+    [ "TRDArrayDictionary", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#ac5c55c5982d12664c717da967e55457f", null ],
+    [ "TRDArrayDictionary", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a9641f65e158e85a0ec86d44f45a0f747", null ],
+    [ "~TRDArrayDictionary", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a96a6a856fcf0437098cdd4a6e0e8baec", null ],
+    [ "allocate", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#aca5f48b1d2f94250b6bc78bc581ad3c3", null ],
+    [ "compress", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a453f3c1571203f31156b8cd1935bec03", null ],
+    [ "expand", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#aebac76bc8396b5c718219684c08d9d9f", null ],
+    [ "getData", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a131600e136416d8028deb2715bc211b5", null ],
+    [ "getDataByAdcCol", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a07671c6271a2aea5751490c1d125cffe", null ],
+    [ "getDim", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a3aa53d0ef1556adb900e2f4ee486d665", null ],
+    [ "getNdet", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a854288967f5f3f5c776c94cc105d5c2f", null ],
+    [ "operator=", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a3b547d9233848d575673614a27afe20e", null ],
+    [ "reset", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#ab0453565e48d0ed305ec62b245d28eae", null ],
+    [ "setData", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a25d83ae7844207373190f337edd062ce", null ],
+    [ "setDataByAdcCol", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a1911a227eb25c90ba3d3c7f13b01ac1e", null ],
+    [ "setNdet", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#ae10172155ea0162b4b675440927fa0dd", null ],
+    [ "wasExpandCalled", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a2a4f788ebebce0dbc5929b28dcd9283c", null ],
+    [ "mDictionary", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a446d758fc3fd460ebe3c4ef4c8ca307c", null ],
+    [ "mFlag", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#ac54d46eb219e9d36438f5f34bc283881", null ],
+    [ "mNcol", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a8e5e15c67ba6a2989196503190fe3567", null ],
+    [ "mNDdim", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#af887f6e74ba842c92baa2ac815f713f9", null ],
+    [ "mNdet", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a7f3bf6d6916d3b0031be54d8da963a41", null ],
+    [ "mNrow", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a82be752f94fc1ffd95c4557e54e62cd1", null ],
+    [ "mNtime", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a20bdacc8e5d0977ffc10a2188f726f9d", null ],
+    [ "mNumberOfChannels", "d4/dfd/classo2_1_1trd_1_1TRDArrayDictionary.html#a14810fcd6ec200792af8c5556c1e9c4d", null ]
+];

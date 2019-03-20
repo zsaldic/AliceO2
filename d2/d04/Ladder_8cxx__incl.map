@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/Ladder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/Ladder.cxx">
+<area shape="rect" id="node9" href="$da/d2d/AlpideChip_8h.html" title="Creates an ALPIDE chip in simulation. " alt="" coords="789,125,998,152"/>
+<area shape="rect" id="node11" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="1023,125,1253,152"/>
+<area shape="rect" id="node22" href="$d9/de7/LadderSegmentation_8h.html" title="Description of the virtual segmentation of a ladder. " alt="" coords="1329,125,1542,152"/>
+<area shape="rect" id="node27" href="$d3/dbd/ChipSegmentation_8h.html" title="Chip (sensor) segmentation description. " alt="" coords="1144,200,1345,227"/>
+<area shape="rect" id="node28" href="$d2/d8d/Flex_8h.html" title="Flex (Printed Cabled Board) class for ALICE MFT upgrade. " alt="" coords="1865,200,1983,227"/>
+<area shape="rect" id="node29" href="$d0/d12/Ladder_8h.html" title="Class building the Ladder geometry. " alt="" coords="1955,125,2089,152"/>
+<area shape="rect" id="node31" href="$d6/d2e/ITSMFT_2MFT_2base_2include_2MFTBase_2Geometry_8h.html" title="MFTBase/Geometry.h" alt="" coords="1691,200,1841,227"/>
+<area shape="rect" id="node12" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="897,200,1063,227"/>
+<area shape="rect" id="node19" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="631,283,797,309"/>
+<area shape="rect" id="node25" href="$d3/de7/VSegmentation_8h.html" title="Abstract base class for MFT Segmentation description. " alt="" coords="1653,283,1835,309"/>
+</map>

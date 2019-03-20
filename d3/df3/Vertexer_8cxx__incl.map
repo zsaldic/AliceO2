@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/Vertexer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/Vertexer.cxx">
+<area shape="rect" id="node2" href="$de/d9b/Vertexer_8h.html" title="ITStracking/Vertexer.h" alt="" coords="2133,125,2285,152"/>
+<area shape="rect" id="node8" href="$dc/d42/ROframe_8h.html" title="ITStracking/ROframe.h" alt="" coords="3069,208,3227,235"/>
+<area shape="rect" id="node13" href="$da/d7f/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cluster_8h.html" title="ITStracking/Cluster.h" alt="" coords="2725,299,2872,325"/>
+<area shape="rect" id="node20" href="$d2/d0c/IndexTableUtils_8h.html" title="ITStracking/IndexTableUtils.h" alt="" coords="2713,389,2908,416"/>
+<area shape="rect" id="node29" href="$df/d50/ClusterLines_8h.html" title="ClusterLines.h" alt="" coords="2876,480,2983,507"/>
+<area shape="rect" id="node18" href="$d0/d86/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Constants_8h.html" title="ITStracking/Constants.h" alt="" coords="2509,480,2672,507"/>
+<area shape="rect" id="node27" href="$d3/d59/Configuration_8h.html" title="ITStracking/Configuration.h" alt="" coords="2172,389,2353,416"/>
+<area shape="rect" id="node28" href="$d2/dd6/VertexerTraits_8h.html" title="ITStracking/VertexerTraits.h" alt="" coords="2297,208,2484,235"/>
+<area shape="rect" id="node30" href="$d3/d6f/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Vertex_8h.html" title="ReconstructionDataFormats\l/Vertex.h" alt="" coords="1597,201,1784,242"/>
+<area shape="rect" id="node21" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="3640,291,3792,333"/>
+<area shape="rect" id="node23" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3368,291,3520,333"/>
+<area shape="rect" id="node14" href="$df/d3d/Definitions_8h.html" title="ITStracking/Definitions.h" alt="" coords="2729,563,2895,589"/>
+<area shape="rect" id="node16" href="$dc/d3e/MathUtils_8h.html" title="ITStracking/MathUtils.h" alt="" coords="2428,389,2587,416"/>
+<area shape="rect" id="node31" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="927,299,1093,325"/>
+<area shape="rect" id="node42" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="1577,299,1804,325"/>
+<area shape="rect" id="node39" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="823,389,989,416"/>
+</map>

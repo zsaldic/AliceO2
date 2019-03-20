@@ -1,0 +1,6 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTracking/src/CollectCalibInfoTOF.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTracking/src/CollectCalibInfoTOF.cxx">
+<area shape="rect" id="node5" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="235,224,351,251"/>
+<area shape="rect" id="node8" href="$d8/d60/CollectCalibInfoTOF_8h.html" title="GlobalTracking/CollectCalib\lInfoTOF.h" alt="" coords="495,126,679,167"/>
+<area shape="rect" id="node14" href="$d6/d9c/CalibInfoTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="916,217,1103,258"/>
+<area shape="rect" id="node15" href="$d4/d78/CalibInfoTOFshort_8h.html" title="Class to store the output of the matching to TOF for calibration (no channel info, available in CalibInfoTOF.h) " alt="" coords="1127,217,1313,258"/>
+</map>

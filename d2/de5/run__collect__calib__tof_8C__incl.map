@@ -1,0 +1,6 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/macro/run_collect_calib_tof.C" name="/home/travis/build/AliceO2Group/AliceO2/macro/run_collect_calib_tof.C">
+<area shape="rect" id="node8" href="$d8/d60/CollectCalibInfoTOF_8h.html" title="GlobalTracking/CollectCalib\lInfoTOF.h" alt="" coords="661,110,845,151"/>
+<area shape="rect" id="node14" href="$d6/d9c/CalibInfoTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="971,201,1157,242"/>
+<area shape="rect" id="node15" href="$d4/d78/CalibInfoTOFshort_8h.html" title="Class to store the output of the matching to TOF for calibration (no channel info, available in CalibInfoTOF.h) " alt="" coords="1181,201,1368,242"/>
+<area shape="rect" id="node16" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="1392,208,1508,235"/>
+</map>

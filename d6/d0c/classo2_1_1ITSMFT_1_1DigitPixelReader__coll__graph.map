@@ -1,0 +1,4 @@
+<map id="o2::ITSMFT::DigitPixelReader" name="o2::ITSMFT::DigitPixelReader">
+<area shape="rect" id="node2" href="$de/d6d/classo2_1_1ITSMFT_1_1PixelReader.html" title="PixelReader class for the ITSMFT. " alt="" coords="53,451,224,675"/>
+<area shape="rect" id="node3" href="$d1/d21/structo2_1_1InteractionRecord.html" title="{o2::InteractionRecord\n||+ InteractionRecord()\l+ InteractionRecord()\l+ InteractionRecord()\l+ clear()\l+ isDummy()\l+ setFromNS()\l+ operator==()\l+ differenceInBC()\l+ print()\l+ ClassDefNV()\l+ bc2ns()\l+ ns2bc()\l}" alt="" coords="5,147,152,386"/>
+</map>

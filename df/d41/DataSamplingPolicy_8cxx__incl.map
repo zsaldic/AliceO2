@@ -1,0 +1,19 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/DataSamplingPolicy.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/DataSamplingPolicy.cxx">
+<area shape="rect" id="node2" href="$d2/d1b/DataSamplingPolicy_8h.html" title="A declaration of O2 Data Sampling Policy. " alt="" coords="2487,133,2707,160"/>
+<area shape="rect" id="node42" href="$de/dca/DataSamplingConditionFactory_8h.html" title="A definition of DataSamplingConditionFactory. " alt="" coords="2855,126,3083,167"/>
+<area shape="rect" id="node43" href="$d6/d68/DataSpecUtils_8h.html" title="Framework/DataSpecUtils.h" alt="" coords="1964,133,2151,160"/>
+<area shape="rect" id="node3" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2222,472,2377,499"/>
+<area shape="rect" id="node12" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="2473,216,2633,243"/>
+<area shape="rect" id="node37" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="1807,216,1947,243"/>
+<area shape="rect" id="node38" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="1972,216,2143,243"/>
+<area shape="rect" id="node39" href="$dd/dcf/DataSamplingCondition_8h.html" title="A standarised data sampling condition, to decide if given data sample should be passed forward..." alt="" coords="2895,216,3133,243"/>
+<area shape="rect" id="node11" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2054,555,2236,581"/>
+<area shape="rect" id="node13" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="1837,299,1984,325"/>
+<area shape="rect" id="node14" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="2402,389,2632,416"/>
+<area shape="rect" id="node15" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="2249,291,2428,333"/>
+<area shape="rect" id="node16" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="2844,382,3028,423"/>
+<area shape="rect" id="node18" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="1641,389,1761,416"/>
+<area shape="rect" id="node35" href="$d4/de7/DataDescriptorMatcher_8inc.html" title="DataDescriptorMatcher.inc" alt="" coords="2097,389,2276,416"/>
+<area shape="rect" id="node19" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="1158,472,1415,499"/>
+<area shape="rect" id="node40" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="3003,299,3153,325"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/include/MIDSimulation/MCLabel.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/include/MIDSimulation/MCLabel.h">
+<area shape="rect" id="node2" href="$da/de1/MUON_2MID_2Simulation_2include_2MIDSimulation_2Digitizer_8h.html" title="Digitizer for MID. " alt="" coords="203,126,425,197"/>
+<area shape="rect" id="node5" href="$d4/dd3/MIDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MIDDigitizerSpec.cxx" alt="" coords="5,246,181,317"/>
+<area shape="rect" id="node6" href="$dc/d92/DigitsMerger_8h.html" title="Digits merger for MID. " alt="" coords="450,126,696,197"/>
+<area shape="rect" id="node8" href="$d0/dd9/MCLabel_8cxx.html" title="Implementation of MC label for MID. " alt="" coords="721,126,943,197"/>
+<area shape="rect" id="node9" href="$d9/d65/MIDDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MIDDigitWriterSpec.h" alt="" coords="968,126,1144,197"/>
+<area shape="rect" id="node3" href="$d6/df9/MUON_2MID_2Simulation_2src_2Digitizer_8cxx.html" title="Implementation of the digitizer for MID. " alt="" coords="206,246,428,317"/>
+<area shape="rect" id="node4" href="$d6/d45/testSimulation_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Simulation\l/test/testSimulation.cxx" alt="" coords="453,246,675,317"/>
+<area shape="rect" id="node7" href="$db/d63/DigitsMerger_8cxx.html" title="Implementation of the digits merger for MID. " alt="" coords="699,246,921,317"/>
+<area shape="rect" id="node10" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="948,246,1164,317"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/macro/runRawClusterFinder.C" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/macro/runRawClusterFinder.C">
+<area shape="rect" id="node2" href="$d5/db8/RawClusterFinder_8C.html" title="RawClusterFinder.C" alt="" coords="4293,125,4433,152"/>
+<area shape="rect" id="node11" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="3564,936,3732,963"/>
+<area shape="rect" id="node24" href="$d8/d81/CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="3125,357,3259,384"/>
+<area shape="rect" id="node30" href="$d7/d2c/Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="2138,539,2275,565"/>
+<area shape="rect" id="node40" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="3121,712,3244,739"/>
+<area shape="rect" id="node48" href="$d7/dd7/CalibRawBase_8h.html" title="TPCCalibration/CalibRawBase.h" alt="" coords="3473,200,3687,227"/>
+<area shape="rect" id="node52" href="$df/db1/TPC_2base_2include_2TPCBase_2Digit_8h.html" title="TPCBase/Digit.h" alt="" coords="4487,539,4608,565"/>
+<area shape="rect" id="node73" href="$db/db1/TPC_2reconstruction_2include_2TPCReconstruction_2Clusterer_8h.html" title="TPCReconstruction/Clusterer.h" alt="" coords="4603,275,4808,301"/>
+<area shape="rect" id="node80" href="$de/df6/HwClusterer_8h.html" title="Class for TPC HW cluster finding. " alt="" coords="4251,200,4476,227"/>
+<area shape="rect" id="node84" href="$d2/df8/BoxClusterer_8h.html" title="Class for TPC cluster finding. " alt="" coords="5037,200,5264,227"/>
+<area shape="rect" id="node85" href="$dc/ddf/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Cluster_8h.html" title="DataFormatsTPC/Cluster.h" alt="" coords="5950,448,6132,475"/>
+<area shape="rect" id="node86" href="$db/d6b/ClusterContainer_8h.html" title="Container class for TPC clusters. " alt="" coords="4779,350,4961,391"/>
+<area shape="rect" id="node87" href="$d5/dc9/TrackTPC_8h.html" title="DataFormatsTPC/TrackTPC.h" alt="" coords="5365,357,5564,384"/>
+<area shape="rect" id="node13" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="4371,1093,4537,1120"/>
+<area shape="rect" id="node16" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="6103,1011,6269,1037"/>
+<area shape="rect" id="node35" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="3217,861,3348,888"/>
+<area shape="rect" id="node38" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="3221,787,3344,813"/>
+<area shape="rect" id="node44" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="3119,448,3264,475"/>
+<area shape="rect" id="node33" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="2099,787,2239,813"/>
+<area shape="rect" id="node34" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1919,712,2081,739"/>
+<area shape="rect" id="node37" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="2308,712,2479,739"/>
+<area shape="rect" id="node39" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1979,629,2123,656"/>
+<area shape="rect" id="node41" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1093,861,1235,888"/>
+<area shape="rect" id="node42" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="2249,629,2428,656"/>
+<area shape="rect" id="node43" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1537,629,1700,656"/>
+<area shape="rect" id="node36" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="4025,936,4224,963"/>
+<area shape="rect" id="node51" href="$db/d52/GBTFrameContainer_8h.html" title="Container class for the GBT Frames. " alt="" coords="755,441,960,482"/>
+<area shape="rect" id="node64" href="$d3/d11/RawReader_8h.html" title="TPCReconstruction/RawReader.h" alt="" coords="2860,275,3081,301"/>
+<area shape="rect" id="node67" href="$d6/dbe/RawReaderEventSync_8h.html" title="TPCReconstruction/RawReader\lEventSync.h" alt="" coords="2357,350,2567,391"/>
+<area shape="rect" id="node68" href="$df/d86/RawReaderCRU_8h.html" title="TPCReconstruction/RawReader\lCRU.h" alt="" coords="2300,531,2509,573"/>
+<area shape="rect" id="node55" href="$d5/d41/AdcClockMonitor_8h.html" title="Class to monitor the ADC smapling clock contained in the GBT frame. " alt="" coords="143,531,341,573"/>
+<area shape="rect" id="node57" href="$dc/dea/GBTFrame_8h.html" title="GBT Frame object. " alt="" coords="1089,539,1305,565"/>
+<area shape="rect" id="node58" href="$df/dc4/HalfSAMPAData_8h.html" title="Class for data from one half SAMPA. " alt="" coords="1109,629,1360,656"/>
+<area shape="rect" id="node59" href="$d1/df0/SyncPatternMonitor_8h.html" title="Class to monitor the data stream and detect synchronization patterns. " alt="" coords="751,531,964,573"/>
+<area shape="rect" id="node53" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="5092,629,5319,656"/>
+<area shape="rect" id="node72" href="$d4/dee/RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="2606,629,2793,656"/>
+<area shape="rect" id="node74" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="4552,350,4704,391"/>
+<area shape="rect" id="node78" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="4987,350,5139,391"/>
+<area shape="rect" id="node81" href="$db/df1/Helpers_8h.html" title="Helper class for memory management of TPC Data Formats, external from the actual data type classes to..." alt="" coords="4242,448,4427,475"/>
+<area shape="rect" id="node83" href="$d3/dc4/ClusterHardware_8h.html" title="Class of a TPC cluster as produced by the hardware cluster finder (needs a postprocessing step to con..." alt="" coords="3371,629,3609,656"/>
+<area shape="rect" id="node88" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="5444,441,5631,482"/>
+<area shape="rect" id="node98" href="$de/dcd/ClusterNative_8h.html" title="Class of a TPC cluster in TPC&#45;native coordinates (row, time) " alt="" coords="4631,629,4851,656"/>
+<area shape="rect" id="node92" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="5778,629,6016,656"/>
+<area shape="rect" id="node93" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="5444,539,5564,565"/>
+<area shape="rect" id="node94" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="5020,531,5207,573"/>
+<area shape="rect" id="node96" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="5343,622,5551,663"/>
+</map>

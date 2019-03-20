@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/macro/convertClusterToClusterHardware.C" name="/home/travis/build/AliceO2Group/AliceO2/macro/convertClusterToClusterHardware.C">
+<area shape="rect" id="node11" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="864,126,1016,167"/>
+<area shape="rect" id="node17" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1040,126,1192,167"/>
+<area shape="rect" id="node19" href="$d3/dc4/ClusterHardware_8h.html" title="Class of a TPC cluster as produced by the hardware cluster finder (needs a postprocessing step to con..." alt="" coords="1190,216,1428,243"/>
+<area shape="rect" id="node21" href="$db/df1/Helpers_8h.html" title="Helper class for memory management of TPC Data Formats, external from the actual data type classes to..." alt="" coords="1371,133,1556,160"/>
+<area shape="rect" id="node24" href="$dc/ddf/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Cluster_8h.html" title="DataFormatsTPC/Cluster.h" alt="" coords="1039,365,1221,392"/>
+<area shape="rect" id="node27" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1609,365,1808,392"/>
+<area shape="rect" id="node28" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1763,133,1887,160"/>
+<area shape="rect" id="node26" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="1017,440,1244,467"/>
+<area shape="rect" id="node29" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1845,365,2013,392"/>
+<area shape="rect" id="node42" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1734,291,1865,317"/>
+<area shape="rect" id="node43" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1793,216,1916,243"/>
+<area shape="rect" id="node31" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="2427,523,2593,549"/>
+<area shape="rect" id="node34" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1778,440,1944,467"/>
+</map>

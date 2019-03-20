@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="o2::TPC::RawReaderCRU\l::ADCRawData",height=0.2,width=0.4,color="black",URL="$d5/de8/classo2_1_1TPC_1_1RawReaderCRU_1_1ADCRawData.html",tooltip="helper to store the ADC raw data "];
+}

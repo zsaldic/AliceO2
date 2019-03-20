@@ -1,0 +1,28 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/HardwareClusterDecoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/HardwareClusterDecoder.cxx">
+<area shape="rect" id="node2" href="$d2/d41/HardwareClusterDecoder_8h.html" title="TPCReconstruction/Hardware\lClusterDecoder.h" alt="" coords="1681,126,1879,167"/>
+<area shape="rect" id="node6" href="$de/dcd/ClusterNative_8h.html" title="Class of a TPC cluster in TPC&#45;native coordinates (row, time) " alt="" coords="1670,315,1889,341"/>
+<area shape="rect" id="node9" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1715,696,1913,723"/>
+<area shape="rect" id="node10" href="$d7/d2c/Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1115,315,1252,341"/>
+<area shape="rect" id="node38" href="$d1/d2b/ClusterNativeHelper_8h.html" title="Helper class to read the binary format of TPC ClusterNative. " alt="" coords="2355,217,2564,258"/>
+<area shape="rect" id="node40" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3085,307,3237,349"/>
+<area shape="rect" id="node46" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="3261,307,3413,349"/>
+<area shape="rect" id="node51" href="$d3/dc4/ClusterHardware_8h.html" title="Class of a TPC cluster as produced by the hardware cluster finder (needs a postprocessing step to con..." alt="" coords="2281,133,2519,160"/>
+<area shape="rect" id="node54" href="$db/dad/ParameterDetector_8h.html" title="Definition of the parameter class for the detector. " alt="" coords="1966,315,2169,341"/>
+<area shape="rect" id="node55" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="2832,224,3011,251"/>
+<area shape="rect" id="node56" href="$d3/d47/ParameterElectronics_8h.html" title="Definition of the parameter class for the detector electronics. " alt="" coords="2589,224,2808,251"/>
+<area shape="rect" id="node4" href="$db/d19/DigitalCurrentClusterIntegrator_8h.html" title="TPCReconstruction/Digital\lCurrentClusterIntegrator.h" alt="" coords="1517,217,1696,258"/>
+<area shape="rect" id="node15" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="825,696,993,723"/>
+<area shape="rect" id="node28" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="887,547,1027,573"/>
+<area shape="rect" id="node29" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="988,472,1151,499"/>
+<area shape="rect" id="node30" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="895,621,1027,648"/>
+<area shape="rect" id="node31" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="492,472,663,499"/>
+<area shape="rect" id="node33" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="483,397,627,424"/>
+<area shape="rect" id="node35" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="63,621,205,648"/>
+<area shape="rect" id="node36" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="839,397,1019,424"/>
+<area shape="rect" id="node37" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="651,397,815,424"/>
+<area shape="rect" id="node16" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1490,853,1656,880"/>
+<area shape="rect" id="node19" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="826,771,992,797"/>
+<area shape="rect" id="node32" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="687,547,811,573"/>
+<area shape="rect" id="node34" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="687,472,811,499"/>
+<area shape="rect" id="node39" href="$d8/dc8/ClusterGroupAttribute_8h.html" title="Meta data for a group describing it by sector number and global padrow. " alt="" coords="2246,307,2452,349"/>
+</map>

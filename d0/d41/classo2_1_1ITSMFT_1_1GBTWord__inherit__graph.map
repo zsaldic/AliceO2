@@ -1,0 +1,5 @@
+<map id="o2::ITSMFT::GBTWord" name="o2::ITSMFT::GBTWord">
+<area shape="rect" id="node2" href="$d5/d36/classo2_1_1ITSMFT_1_1GBTData.html" title="{o2::ITSMFT::GBTData\n||+ getLaneIB()\l+ getConnectorOB()\l+ getLaneOB()\l+ getLaneOB()\l+ getCableID()\l+ ClassDefNV()\l+ getLaneIB()\l+ getConnectorOB()\l+ getLaneOB()\l+ getLaneOB()\l+ getCableID()\l}" alt="" coords="5,411,159,635"/>
+<area shape="rect" id="node3" href="$d6/dee/classo2_1_1ITSMFT_1_1GBTDataHeader.html" title="{o2::ITSMFT::GBTDataHeader\n||+ GBTDataHeader()\l+ GBTDataHeader()\l+ getPacketID()\l+ getLanes()\l+ setPacketID()\l+ setLanes()\l+ setByte()\l+ ClassDefNV()\l}" alt="" coords="184,433,381,613"/>
+<area shape="rect" id="node4" href="$dc/dc1/classo2_1_1ITSMFT_1_1GBTDataTrailer.html" title="{o2::ITSMFT::GBTDataTrailer\n||+ GBTDataTrailer()\l+ GBTDataTrailer()\l+ getLanesStop()\l+ getLanesTimeout()\l+ getPacketState()\l+ setLanesStop()\l+ setLanesTimeout()\l+ setPacketState()\l+ setByte()\l+ ClassDefNV()\l}" alt="" coords="406,418,596,627"/>
+</map>

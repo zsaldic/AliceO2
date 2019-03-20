@@ -1,0 +1,32 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/SAMPAProcessing.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/SAMPAProcessing.cxx">
+<area shape="rect" id="node2" href="$d0/d45/SAMPAProcessing_8h.html" title="Definition of the SAMPA response. " alt="" coords="523,125,759,152"/>
+<area shape="rect" id="node50" href="$dc/df2/CDBInterface_8h.html" title="Simple interface to the CDB manager. " alt="" coords="2469,125,2643,152"/>
+<area shape="rect" id="node4" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1347,573,1487,600"/>
+<area shape="rect" id="node5" href="$d8/d81/CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1263,200,1397,227"/>
+<area shape="rect" id="node36" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="805,499,928,525"/>
+<area shape="rect" id="node43" href="$db/dac/RandomRing_8h.html" title="TPCBase/RandomRing.h" alt="" coords="339,275,509,301"/>
+<area shape="rect" id="node46" href="$db/dad/ParameterDetector_8h.html" title="Definition of the parameter class for the detector. " alt="" coords="511,349,715,376"/>
+<area shape="rect" id="node47" href="$d3/d47/ParameterElectronics_8h.html" title="Definition of the parameter class for the detector electronics. " alt="" coords="309,200,528,227"/>
+<area shape="rect" id="node48" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="5,200,184,227"/>
+<area shape="rect" id="node13" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1120,723,1288,749"/>
+<area shape="rect" id="node27" href="$d7/d2c/Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1457,349,1593,376"/>
+<area shape="rect" id="node31" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="749,648,880,675"/>
+<area shape="rect" id="node34" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="957,573,1080,600"/>
+<area shape="rect" id="node40" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="2015,275,2160,301"/>
+<area shape="rect" id="node15" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1787,880,1953,907"/>
+<area shape="rect" id="node18" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1155,797,1321,824"/>
+<area shape="rect" id="node30" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1105,499,1268,525"/>
+<area shape="rect" id="node33" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1444,499,1615,525"/>
+<area shape="rect" id="node35" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1225,424,1369,451"/>
+<area shape="rect" id="node37" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2005,573,2147,600"/>
+<area shape="rect" id="node38" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1618,424,1797,451"/>
+<area shape="rect" id="node39" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1874,424,2037,451"/>
+<area shape="rect" id="node32" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="715,723,913,749"/>
+<area shape="rect" id="node51" href="$da/d6a/Condition_8h.html" title="Definition of the Condition class (CDB object) containing the condition and its metadata. " alt="" coords="3111,648,3240,675"/>
+<area shape="rect" id="node54" href="$d4/dd1/IdPath_8h.html" title="CCDB/IdPath.h" alt="" coords="3357,797,3472,824"/>
+<area shape="rect" id="node64" href="$d1/da0/Manager_8h.html" title="Adapted to o2 from the original AliCDBManager.h in AliRoot. " alt="" coords="2703,723,2829,749"/>
+<area shape="rect" id="node52" href="$da/d53/ConditionId_8h.html" title="CCDB/ConditionId.h" alt="" coords="3315,723,3457,749"/>
+<area shape="rect" id="node57" href="$d1/d3f/ConditionMetaData_8h.html" title="CCDB/ConditionMetaData.h" alt="" coords="3043,797,3231,824"/>
+<area shape="rect" id="node59" href="$d7/d44/TObjectWrapper_8h.html" title="CCDB/TObjectWrapper.h" alt="" coords="2417,797,2588,824"/>
+<area shape="rect" id="node56" href="$dd/d18/IdRunRange_8h.html" title="CCDB/IdRunRange.h" alt="" coords="3547,797,3695,824"/>
+</map>

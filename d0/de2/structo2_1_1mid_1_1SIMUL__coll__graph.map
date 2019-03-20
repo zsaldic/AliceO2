@@ -1,0 +1,9 @@
+<map id="o2::mid::SIMUL" name="o2::mid::SIMUL">
+<area shape="rect" id="node2" href="$d2/df3/classo2_1_1mid_1_1GeometryTransformer.html" title="{o2::mid::GeometryTransformer\n||+ setMatrix()\l+ getMatrix()\l+ localToGlobal()\l+ globalToLocal()\l+ localToGlobal()\l+ globalToLocal()\l+ localToGlobal()\l+ globalToLocal()\l}" alt="" coords="5,50,204,230"/>
+<area shape="rect" id="node3" href="$d5/dae/classo2_1_1mid_1_1Clusterizer.html" title="Clusterizing algorithm for MID. " alt="" coords="229,35,364,245"/>
+<area shape="rect" id="node4" href="$d1/d66/classo2_1_1mid_1_1Mapping.html" title="{o2::mid::Mapping\n||+ Mapping()\l+ ~Mapping()\l+ stripByLocation()\l+ stripByLocationInBoard()\l+ stripByPosition()\l+ getStripSize()\l+ getNStripsNBP()\l+ getFirstColumn()\l+ getFirstBoardBP()\l+ getLastBoardBP()\l+ getBoardId()\l+ getNeighbours()\l+ isValid()\l+ nextStrip()\l}" alt="" coords="390,6,567,274"/>
+<area shape="rect" id="node5" href="$d6/dde/classo2_1_1mid_1_1PreClusterizer.html" title="Pre&#45;clustering algorithm for MID. " alt="" coords="591,35,747,245"/>
+<area shape="rect" id="node6" href="$d0/d31/classo2_1_1mid_1_1DigitsMerger.html" title="{o2::mid::DigitsMerger\n||+ process()\l}" alt="" coords="772,101,919,179"/>
+<area shape="rect" id="node7" href="$d8/dba/classo2_1_1mid_1_1ChamberResponseParams.html" title="{o2::mid::ChamberResponse\lParams\n||+ getParA()\l+ getParB()\l+ getParC()\l+ getParametersA()\l+ getParametersC()\l+ setParA()\l+ setParC()\l+ setParB()\l}" alt="" coords="943,43,1128,237"/>
+<area shape="rect" id="node8" href="$d8/d69/classo2_1_1mid_1_1Digitizer.html" title="{o2::mid::Digitizer\n||+ Digitizer()\l+ ~Digitizer()\l+ process()\l+ setEventTime()\l+ setEventID()\l+ setSrcID()\l+ setGeometryTransformer()\l+ setChamberResponse()\l+ setSeed()\l}" alt="" coords="1153,43,1340,237"/>
+</map>

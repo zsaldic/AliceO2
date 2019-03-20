@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/MUON/MID/include/DataFormatsMID/Track.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/MUON/MID/include/DataFormatsMID/Track.h">
+<area shape="rect" id="node2" href="$da/d6a/DataFormats_2Detectors_2MUON_2MID_2src_2Track_8cxx.html" title="Reconstructed MID track. " alt="" coords="5,146,184,217"/>
+<area shape="rect" id="node3" href="$d7/d40/HitFinder_8h.html" title="Hit finder for MID. " alt="" coords="209,146,404,217"/>
+<area shape="rect" id="node5" href="$d0/db9/bench__Tracker_8cxx.html" title="Benchmark tracker device for MID. " alt="" coords="252,273,461,343"/>
+<area shape="rect" id="node6" href="$da/de0/testTracker_8cxx.html" title="Test tracking device for MID. " alt="" coords="721,273,931,343"/>
+<area shape="rect" id="node7" href="$d3/d93/TrackGenerator_8h.html" title="Fast track generator for MID. " alt="" coords="713,139,940,224"/>
+<area shape="rect" id="node9" href="$db/d8e/MUON_2MID_2Tracking_2include_2MIDTracking_2Tracker_8h.html" title="Track reconstruction algorithm for MID. " alt="" coords="479,146,688,217"/>
+<area shape="rect" id="node4" href="$d4/dc0/HitFinder_8cxx.html" title="Implementation of the hit finder for MID. " alt="" coords="37,273,227,343"/>
+<area shape="rect" id="node8" href="$dc/d58/TrackGenerator_8cxx.html" title="Implementation of a fast track generator for MID. " alt="" coords="956,273,1183,343"/>
+<area shape="rect" id="node10" href="$de/dbc/MUON_2MID_2Tracking_2src_2Tracker_8cxx.html" title="Implementation of the tracker algorithm for the MID. " alt="" coords="487,273,696,343"/>
+</map>

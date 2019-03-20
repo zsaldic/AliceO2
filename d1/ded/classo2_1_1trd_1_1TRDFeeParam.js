@@ -1,0 +1,27 @@
+var classo2_1_1trd_1_1TRDFeeParam =
+[
+    [ "TRDFeeParam", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#abaf8539d0c5129f26252a5c2fe63642f", null ],
+    [ "TRDFeeParam", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#abbf4f352b633865d79c50c2867de30ac", null ],
+    [ "~TRDFeeParam", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#acd2974c6bee0106501df793f939282a7", null ],
+    [ "Copy", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a3b4894a73836bdfe7a050667af2394b1", null ],
+    [ "createPad2MCMLookUpTable", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a7146892e1cf56f8b4f11da6680a48adc", null ],
+    [ "getColSide", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a3c0aac7164b9e90267518f4768d7c3ad", null ],
+    [ "getExtendedPadColFromADC", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a1a7421460d89aa7a53274d14887b8043", null ],
+    [ "getMCMfromPad", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a8d80300145e571dd129ec424a355c46d", null ],
+    [ "getMCMfromSharedPad", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a8ffb570be060f9b570121ac51d6065c4", null ],
+    [ "getPadColFromADC", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#aed29d5085cc5a204b254551874778673", null ],
+    [ "getPadRowFromMCM", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#aedc3c334145c3cf0526993def9e9cfed", null ],
+    [ "getRAWversion", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a2953db7bf98958e17b3367fa54ee8154", null ],
+    [ "getRejectMultipleTracklets", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#aaac3188c9b1d86dd5455dd4bc2687ed9", null ],
+    [ "getROBfromPad", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#ae61a101c51f9cbe7fb25c907edc2328d", null ],
+    [ "getROBfromSharedPad", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a0776f4f165914b4822ba9498e07a9e3f", null ],
+    [ "getRobSide", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#ad287baa18ec94de80ca7a15ed0211ee2", null ],
+    [ "getTracklet", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a5e68024fae46af025bf0f7777b4e1bf2", null ],
+    [ "getUseMisalignCorr", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a3b0c06916873462b759106b017e76f2a", null ],
+    [ "getUseTimeOffset", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a77752dc721cef9ab897b38a2fbb0dff5", null ],
+    [ "operator=", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a805b9741d9aaa120c7d53d40c8c75c1f", null ],
+    [ "padMcmLUT", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a0ef9b18d4d7a78c8242df9c4756682d0", null ],
+    [ "setRAWversion", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a1959575008a412d224ff70195ca86dd1", null ],
+    [ "mCP", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#ae83e9de9ca8bccda252e55cd80f2a59f", null ],
+    [ "mRAWversion", "d1/ded/classo2_1_1trd_1_1TRDFeeParam.html#a2c52b46dca3db4fb7241dca3eb04d80d", null ]
+];

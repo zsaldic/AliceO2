@@ -1,0 +1,6 @@
+<map id="o2::eventgen::PrimaryGenerator" name="o2::eventgen::PrimaryGenerator">
+<area shape="rect" id="node2" href="$d6/d1f/classFairPrimaryGenerator.html" title="{FairPrimaryGenerator\n||}" alt="" coords="97,205,244,283"/>
+<area shape="rect" id="node3" href="$d4/db1/classo2_1_1dataformats_1_1MCEventHeader.html" title="{o2::dataformats::MCEvent\lHeader\n||+ MCEventHeader()\l+ MCEventHeader()\l+ operator=()\l+ ~MCEventHeader()\l+ setEmbeddingFileName()\l+ setEmbeddingEventIndex()\l+ Reset()\l# ClassDefOverride()\l}" alt="" coords="269,147,459,341"/>
+<area shape="rect" id="node4" href="$dd/d8f/classFairMCEventHeader.html" title="{FairMCEventHeader\n||}" alt="" coords="5,5,145,83"/>
+<area shape="rect" id="node5" href="$d1/da0/classint.html" title="{int\n||}" alt="" coords="170,5,208,83"/>
+</map>

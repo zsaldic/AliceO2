@@ -1,0 +1,24 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/RandomRing.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/RandomRing.h">
+<area shape="rect" id="node2" href="$df/d05/RandomRing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/base/src\l/RandomRing.cxx" alt="" coords="95,126,263,197"/>
+<area shape="rect" id="node3" href="$d2/da8/ElectronTransport_8h.html" title="Definition of the electron transport. " alt="" coords="287,126,564,197"/>
+<area shape="rect" id="node7" href="$d9/d79/GEMAmplification_8h.html" title="Definition of the GEM amplification. " alt="" coords="589,126,867,197"/>
+<area shape="rect" id="node11" href="$d0/d45/SAMPAProcessing_8h.html" title="Definition of the SAMPA response. " alt="" coords="1622,126,1908,197"/>
+<area shape="rect" id="node4" href="$d7/d0a/TPC_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Digitizer.cxx" alt="" coords="803,726,980,797"/>
+<area shape="rect" id="node5" href="$d1/d98/ElectronTransport_8cxx.html" title="Implementation of the electron transport. " alt="" coords="259,246,436,317"/>
+<area shape="rect" id="node6" href="$d4/d82/testTPCElectronTransport_8cxx.html" title="This task tests the ElectronTransport module of the TPC digitization. " alt="" coords="5,246,235,317"/>
+<area shape="rect" id="node8" href="$db/d6c/GEMAmplification_8cxx.html" title="Implementation of the GEM amplification. " alt="" coords="1059,246,1237,317"/>
+<area shape="rect" id="node9" href="$d5/d97/testTPCGEMAmplification_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCGEMAmplification.cxx" alt="" coords="563,246,793,317"/>
+<area shape="rect" id="node10" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="819,246,1035,317"/>
+<area shape="rect" id="node12" href="$db/d60/testTracks_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/macro/testTracks.C" alt="" coords="1327,246,1525,317"/>
+<area shape="rect" id="node13" href="$d5/dcb/DigitGlobalPad_8h.html" title="Definition of the GlobalPad container. " alt="" coords="1551,246,1811,317"/>
+<area shape="rect" id="node17" href="$d2/d0b/TPCDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TPCDigitizerSpec.cxx" alt="" coords="1711,726,1889,797"/>
+<area shape="rect" id="node19" href="$dd/d5e/testTPCDigitContainer_8cxx.html" title="This task tests the DigitContainer of the TPC digitization. " alt="" coords="1745,606,1953,677"/>
+<area shape="rect" id="node22" href="$d1/dd8/SAMPAProcessing_8cxx.html" title="Implementation of the SAMPA response. " alt="" coords="2030,246,2215,317"/>
+<area shape="rect" id="node23" href="$d0/d5c/testTPCSAMPAProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCSAMPAProcessing.cxx" alt="" coords="2239,246,2477,317"/>
+<area shape="rect" id="node14" href="$d0/d60/DigitTime_8h.html" title="Definition of the Time Bin container. " alt="" coords="1566,366,1796,437"/>
+<area shape="rect" id="node21" href="$d1/ddd/DigitGlobalPad_8cxx.html" title="Implementation of the Pad container. " alt="" coords="1365,366,1541,437"/>
+<area shape="rect" id="node15" href="$dd/d94/DigitContainer_8h.html" title="Definition of the Digit Container. " alt="" coords="1553,486,1809,557"/>
+<area shape="rect" id="node20" href="$dd/dcd/DigitTime_8cxx.html" title="Implementation of the Time Bin container. " alt="" coords="1351,486,1528,557"/>
+<area shape="rect" id="node16" href="$de/d92/TPC_2simulation_2include_2TPCSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Digitizer.h" alt="" coords="1498,606,1720,677"/>
+<area shape="rect" id="node18" href="$df/d53/DigitContainer_8cxx.html" title="Implementation of the Digit Container. " alt="" coords="1297,606,1473,677"/>
+</map>

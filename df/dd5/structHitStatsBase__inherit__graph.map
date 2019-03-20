@@ -1,0 +1,5 @@
+<map id="HitStatsBase" name="HitStatsBase">
+<area shape="rect" id="node2" href="$de/d30/structHitStats.html" title="{HitStats\&lt; T \&gt;\n||+ addHit()\l}" alt="" coords="5,293,107,371"/>
+<area shape="rect" id="node3" href="$dc/db4/structITSHitStats.html" title="{ITSHitStats\n||+ addHit()\l}" alt="" coords="132,293,223,371"/>
+<area shape="rect" id="node4" href="$d1/d88/structTPCHitStats.html" title="{TPCHitStats\n||+ addHit()\l}" alt="" coords="247,293,344,371"/>
+</map>

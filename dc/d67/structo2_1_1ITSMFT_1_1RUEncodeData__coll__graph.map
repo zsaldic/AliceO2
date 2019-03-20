@@ -1,0 +1,7 @@
+<map id="o2::ITSMFT::RUEncodeData" name="o2::ITSMFT::RUEncodeData">
+<area shape="rect" id="node3" href="$d1/d21/structo2_1_1InteractionRecord.html" title="{o2::InteractionRecord\n||+ InteractionRecord()\l+ InteractionRecord()\l+ InteractionRecord()\l+ clear()\l+ isDummy()\l+ setFromNS()\l+ operator==()\l+ differenceInBC()\l+ print()\l+ ClassDefNV()\l+ bc2ns()\l+ ns2bc()\l}" alt="" coords="173,586,320,825"/>
+<area shape="rect" id="node6" href="$d6/d93/structo2_1_1ITSMFT_1_1ChipInfo.html" title="{o2::ITSMFT::ChipInfo\n||+ print()\l}" alt="" coords="344,667,492,744"/>
+<area shape="rect" id="node7" href="$da/d97/structo2_1_1ITSMFT_1_1ChipOnRUInfo.html" title="{o2::ITSMFT::ChipOnRUInfo\n||+ print()\l}" alt="" coords="360,248,547,325"/>
+<area shape="rect" id="node9" href="$df/dc4/classo2_1_1ITSMFT_1_1PayLoadCont.html" title="{o2::ITSMFT::PayLoadCont\n||+ PayLoadCont()\l+ ~PayLoadCont()\l+ data()\l+ expand()\l+ isEmpty()\l+ clear()\l+ getUnusedSize()\l+ getSize()\l+ getOffset()\l+ getCapacity()\l+ getFreeCapacity()\l+ ensureFreeCapacity()\l+ addFast()\l+ addFast()\l+ addFast()\l+ eraseFast()\l+ erase()\l+ add()\l+ add()\l+ add()\l+ shrinkToSize()\l+ operator[]()\l+ operator[]()\l+ current()\l+ next()\l+ next()\l+ rewind()\l+ moveUnusedToHead()\l+ append()\l+ getPtr()\l+ setPtr()\l+ getEnd()\l+ setEnd()\l}" alt="" coords="517,432,696,979"/>
+<area shape="rect" id="node10" href="$d1/da0/classint.html" title="{int\n||}" alt="" coords="707,248,745,325"/>
+</map>

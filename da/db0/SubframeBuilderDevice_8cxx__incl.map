@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Utilities/DataFlow/src/SubframeBuilderDevice.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Utilities/DataFlow/src/SubframeBuilderDevice.cxx">
+<area shape="rect" id="node5" href="$d0/d82/SubframeBuilderDevice_8h.html" title="Demonstrator device for a subframe builder. " alt="" coords="2383,126,2561,167"/>
+<area shape="rect" id="node6" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2086,440,2241,467"/>
+<area shape="rect" id="node15" href="$d2/d09/HeartbeatFrame_8h.html" title="Headers/HeartbeatFrame.h" alt="" coords="2561,291,2740,317"/>
+<area shape="rect" id="node39" href="$d2/de2/SubframeUtils_8h.html" title="DataFlow/SubframeUtils.h" alt="" coords="1739,216,1915,243"/>
+<area shape="rect" id="node42" href="$d2/d1b/SubframeMetadata_8h.html" title="Headers/SubframeMetadata.h" alt="" coords="3095,216,3291,243"/>
+<area shape="rect" id="node18" href="$d2/dee/O2Device_8h.html" title="O2Device/O2Device.h" alt="" coords="2242,216,2395,243"/>
+<area shape="rect" id="node37" href="$d3/d95/PayloadMerger_8h.html" title="DataFlow/PayloadMerger.h" alt="" coords="3035,291,3215,317"/>
+<area shape="rect" id="node14" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1887,523,2069,549"/>
+<area shape="rect" id="node21" href="$d7/db2/Utilities_8h.html" title="O2Device/Utilities.h" alt="" coords="1756,291,1895,317"/>
+<area shape="rect" id="node22" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="1207,440,1464,467"/>
+<area shape="rect" id="node34" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="1744,365,1864,392"/>
+</map>

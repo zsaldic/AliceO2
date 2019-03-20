@@ -1,0 +1,14 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/macro/CheckDigits_mft.C" name="/home/travis/build/AliceO2Group/AliceO2/macro/CheckDigits_mft.C">
+<area shape="rect" id="node8" href="$d0/d06/ITSMFT_2common_2base_2include_2ITSMFTBase_2Digit_8h.html" title="ITSMFTBase/Digit.h" alt="" coords="841,117,983,144"/>
+<area shape="rect" id="node11" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="494,208,724,235"/>
+<area shape="rect" id="node23" href="$d0/dae/ITSMFT_2common_2simulation_2include_2ITSMFTSimulation_2Hit_8h.html" title="ITSMFTSimulation/Hit.h" alt="" coords="1059,117,1221,144"/>
+<area shape="rect" id="node34" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1797,117,1917,144"/>
+<area shape="rect" id="node38" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1413,110,1565,151"/>
+<area shape="rect" id="node43" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1941,110,2093,151"/>
+<area shape="rect" id="node12" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="801,291,967,317"/>
+<area shape="rect" id="node20" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="230,373,396,400"/>
+<area shape="rect" id="node24" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="812,201,964,242"/>
+<area shape="rect" id="node26" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1043,208,1237,235"/>
+<area shape="rect" id="node27" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="1684,291,1879,317"/>
+<area shape="rect" id="node37" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1909,208,2147,235"/>
+</map>

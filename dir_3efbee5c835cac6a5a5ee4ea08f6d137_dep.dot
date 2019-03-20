@@ -1,0 +1,22 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Simulation/test" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_2810eaf0225063d73e08d8eeeb8a37b8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Simulation" fontname="Helvetica", fontsize="10", URL="dir_2810eaf0225063d73e08d8eeeb8a37b8.html"]
+  dir_3efbee5c835cac6a5a5ee4ea08f6d137 [shape=box, label="test", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_3efbee5c835cac6a5a5ee4ea08f6d137.html"];
+  }
+  dir_1bad6cd644632a70bf093df362196556 [shape=box label="include" color="red" URL="dir_1bad6cd644632a70bf093df362196556.html"];
+  dir_4ab6b4cc6a7edbff49100e9123df213f [shape=box label="Common" color="red" URL="dir_4ab6b4cc6a7edbff49100e9123df213f.html"];
+  dir_754f2fe7806627988f6bd801b7f2fe5b [shape=box label="Clustering" color="red" URL="dir_754f2fe7806627988f6bd801b7f2fe5b.html"];
+  dir_b5547b1068d53f0f904ee5a2a84992af [shape=box label="Base" color="red" URL="dir_b5547b1068d53f0f904ee5a2a84992af.html"];
+  dir_1bad6cd644632a70bf093df362196556->dir_4ab6b4cc6a7edbff49100e9123df213f [headlabel="1", labeldistance=1.5 headhref="dir_000184_000016.html"];
+  dir_1bad6cd644632a70bf093df362196556->dir_b5547b1068d53f0f904ee5a2a84992af [headlabel="5", labeldistance=1.5 headhref="dir_000184_000127.html"];
+  dir_754f2fe7806627988f6bd801b7f2fe5b->dir_b5547b1068d53f0f904ee5a2a84992af [headlabel="4", labeldistance=1.5 headhref="dir_000353_000127.html"];
+  dir_3efbee5c835cac6a5a5ee4ea08f6d137->dir_1bad6cd644632a70bf093df362196556 [headlabel="6", labeldistance=1.5 headhref="dir_000350_000184.html"];
+  dir_3efbee5c835cac6a5a5ee4ea08f6d137->dir_4ab6b4cc6a7edbff49100e9123df213f [headlabel="2", labeldistance=1.5 headhref="dir_000350_000016.html"];
+  dir_3efbee5c835cac6a5a5ee4ea08f6d137->dir_754f2fe7806627988f6bd801b7f2fe5b [headlabel="2", labeldistance=1.5 headhref="dir_000350_000353.html"];
+  dir_3efbee5c835cac6a5a5ee4ea08f6d137->dir_b5547b1068d53f0f904ee5a2a84992af [headlabel="3", labeldistance=1.5 headhref="dir_000350_000127.html"];
+  dir_b5547b1068d53f0f904ee5a2a84992af->dir_4ab6b4cc6a7edbff49100e9123df213f [headlabel="2", labeldistance=1.5 headhref="dir_000127_000016.html"];
+}

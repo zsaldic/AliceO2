@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/base/include/HMPIDBase/Param.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/base/include/HMPIDBase/Param.h">
+<area shape="rect" id="node2" href="$d7/d09/HMPID_2base_2include_2HMPIDBase_2Digit_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/base\l/include/HMPIDBase/Digit.h" alt="" coords="248,126,435,197"/>
+<area shape="rect" id="node3" href="$da/d5e/HMPID_2base_2src_2Digit_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/base\l/src/Digit.cxx" alt="" coords="5,246,168,317"/>
+<area shape="rect" id="node9" href="$d2/dcd/HMPID_2base_2src_2Param_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/base\l/src/Param.cxx" alt="" coords="459,126,621,197"/>
+<area shape="rect" id="node10" href="$d7/d24/HMPID_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/simulation\l/src/Detector.cxx" alt="" coords="645,126,840,197"/>
+<area shape="rect" id="node4" href="$d7/d3d/HMPIDDigitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/simulation\l/include/HMPIDSimulation/HMPIDDigitizer.h" alt="" coords="243,246,524,317"/>
+<area shape="rect" id="node5" href="$dc/d6e/HMPIDDigitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/simulation\l/src/HMPIDDigitizer.cxx" alt="" coords="119,366,313,437"/>
+<area shape="rect" id="node6" href="$d8/d00/HMPIDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/HMPIDDigitizerSpec.cxx" alt="" coords="359,366,553,437"/>
+<area shape="rect" id="node7" href="$d5/d5b/HMPIDDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/HMPIDDigitWriterSpec.h" alt="" coords="600,246,795,317"/>
+<area shape="rect" id="node8" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="589,366,805,437"/>
+</map>

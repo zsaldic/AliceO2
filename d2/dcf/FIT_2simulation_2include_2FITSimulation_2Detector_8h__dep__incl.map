@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/simulation/include/FITSimulation/Detector.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/simulation/include/FITSimulation/Detector.h">
+<area shape="rect" id="node2" href="$d8/d99/readHitsDigits_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/macros\l/readHitsDigits.C" alt="" coords="5,126,163,197"/>
+<area shape="rect" id="node3" href="$d7/db7/readRecPoints_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/macros\l/readRecPoints.C" alt="" coords="187,126,344,197"/>
+<area shape="rect" id="node4" href="$d3/da0/FIT_2simulation_2include_2FITSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/simulation\l/include/FITSimulation/Digitizer.h" alt="" coords="419,126,633,197"/>
+<area shape="rect" id="node5" href="$d4/dcd/FIT_2simulation_2include_2FITSimulation_2DigitizerTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/simulation\l/include/FITSimulation/Digitizer\lTask.h" alt="" coords="246,245,449,331"/>
+<area shape="rect" id="node11" href="$d3/d5e/FIT_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/simulation\l/src/Detector.cxx" alt="" coords="659,126,829,197"/>
+<area shape="rect" id="node12" href="$d7/dd8/analyzeHits_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/analyzeHits.C" alt="" coords="853,133,1011,189"/>
+<area shape="rect" id="node13" href="$db/d50/O2HitMerger_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMerger.h" alt="" coords="1035,133,1192,189"/>
+<area shape="rect" id="node9" href="$d1/d0b/FIT_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/simulation\l/src/Digitizer.cxx" alt="" coords="475,253,645,323"/>
+<area shape="rect" id="node10" href="$dd/dfe/FITDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FITDigitizerSpec.cxx" alt="" coords="669,253,840,323"/>
+<area shape="rect" id="node6" href="$db/d4c/Detectors_2FIT_2macros_2run__digi__fit_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/macros\l/run_digi_fit.C" alt="" coords="81,379,239,450"/>
+<area shape="rect" id="node7" href="$d5/d69/FIT_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/simulation\l/src/DigitizerTask.cxx" alt="" coords="263,379,433,450"/>
+<area shape="rect" id="node8" href="$d3/d84/macro_2run__digi__fit_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi_fit.C" alt="" coords="457,387,615,443"/>
+<area shape="rect" id="node14" href="$d9/d16/O2HitMergerRunner_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMergerRunner.cxx" alt="" coords="1019,260,1208,316"/>
+</map>

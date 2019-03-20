@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Clustering/test/testClusterizer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Clustering/test/testClusterizer.cxx">
+<area shape="rect" id="node10" href="$d7/d1a/PreClusterizer_8h.html" title="Pre&#45;Cluster reconstruction algorithm for MID. " alt="" coords="1062,133,1265,160"/>
+<area shape="rect" id="node19" href="$d5/d53/Clusterizer_8h.html" title="Cluster reconstruction algorithm for MID. " alt="" coords="853,133,1037,160"/>
+<area shape="rect" id="node12" href="$d4/d73/MID_2Base_2include_2MIDBase_2Mapping_8h.html" title="Mapping for MID. " alt="" coords="1103,299,1243,325"/>
+<area shape="rect" id="node15" href="$d6/d31/Cluster2D_8h.html" title="Reconstructed cluster per RPC. " alt="" coords="1211,216,1408,243"/>
+<area shape="rect" id="node17" href="$d3/d53/ColumnData_8h.html" title="Strip pattern (aka digits) " alt="" coords="1432,216,1641,243"/>
+<area shape="rect" id="node18" href="$d8/d04/PreClusters_8h.html" title="Pre&#45;clusters structure for MID. " alt="" coords="707,216,897,243"/>
+<area shape="rect" id="node14" href="$d7/d0a/MpArea_8h.html" title="Mapping area for MID. " alt="" coords="1105,381,1241,408"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/include/ITSMFTSimulation/AlpideSignalTrapezoid.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/include/ITSMFTSimulation/AlpideSignalTrapezoid.h">
+<area shape="rect" id="node2" href="$df/d29/DigiParams_8h.html" title="Simulation parameters for the ALIPIDE chip. " alt="" coords="493,139,736,224"/>
+<area shape="rect" id="node11" href="$d7/df0/AlpideSignalTrapezoid_8cxx.html" title="Implementation of the ALPIDE signal time shape as trapezoid. " alt="" coords="761,146,1025,217"/>
+<area shape="rect" id="node3" href="$d7/d9c/ITSMFT_2common_2simulation_2include_2ITSMFTSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/common\l/simulation/include/ITSMFTSimulation\l/Digitizer.h" alt="" coords="216,272,459,357"/>
+<area shape="rect" id="node5" href="$dd/d11/ITSMFT_2MFT_2simulation_2include_2MFTSimulation_2DigitizerTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/simulation/include/MFTSimulation\l/DigitizerTask.h" alt="" coords="442,405,664,491"/>
+<area shape="rect" id="node9" href="$d8/d8c/ChipDigitsContainer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/common\l/simulation/src/ChipDigitsContainer.cxx" alt="" coords="571,279,824,350"/>
+<area shape="rect" id="node10" href="$d8/d40/DigiParams_8cxx.html" title="Implementation of the ITS digitization steering params. " alt="" coords="849,279,1052,350"/>
+<area shape="rect" id="node4" href="$dc/dbf/ITSMFT_2common_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/common\l/simulation/src/Digitizer.cxx" alt="" coords="5,413,195,483"/>
+<area shape="rect" id="node8" href="$d3/d43/ITSMFTDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/ITSMFTDigitizerSpec.cxx" alt="" coords="219,413,417,483"/>
+<area shape="rect" id="node6" href="$d6/d87/ITSMFT_2MFT_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/simulation/src/DigitizerTask.cxx" alt="" coords="341,539,555,610"/>
+<area shape="rect" id="node7" href="$d2/d31/run__digi__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi_mft.C" alt="" coords="579,547,736,603"/>
+</map>
